@@ -1,0 +1,478 @@
+id,subject_id,title,created_at,updated_at,video,file,deskripsi,jumlah_detik
+9a1b1cd1-9bd9-4177-8ae7-bea7a7d3ad2a,9a1b1cd1-9ba1-4a6f-8204-525e67a349a2,Sistem Bilangan,9/11/2023 13:06,9/11/2023 13:06,0Egm9jHGoVg,https://youtu.be/0Egm9jHGoVg,NULL,0
+9a1b1cd1-9c28-4364-8013-a280d376b362,9a1b1cd1-9ba1-4a6f-8204-525e67a349a2,Sifat Urutan dan Selang Interval,9/11/2023 13:06,9/11/2023 13:06,iYJXOPTgLig,https://youtu.be/iYJXOPTgLig,NULL,0
+9a1b1cd1-9c70-44c0-8ef8-51fe41a25c9a,9a1b1cd1-9ba1-4a6f-8204-525e67a349a2,Pertidaksamaan,9/11/2023 13:06,9/11/2023 13:06,iLiriVBSXi0,https://youtu.be/iLiriVBSXi0,NULL,0
+9a1b1cd1-9cb6-40ae-9f58-767daa7eab0b,9a1b1cd1-9ba1-4a6f-8204-525e67a349a2,Nilai Mutlak ,9/11/2023 13:06,9/11/2023 13:06,bixXRfI8cj0,https://youtu.be/bixXRfI8cj0,NULL,0
+9a1b1cd1-9cfc-4fa5-bc53-e37b0792d01c,9a1b1cd1-9ba1-4a6f-8204-525e67a349a2,Eksponen,9/11/2023 13:06,9/11/2023 13:06,tRQbzmuHeGk,https://youtu.be/tRQbzmuHeGk,NULL,0
+9a1b1cd1-9d40-4d95-b938-2a387ef9d8aa,9a1b1cd1-9ba1-4a6f-8204-525e67a349a2,Akar,9/11/2023 13:06,9/11/2023 13:06,9V_JPp24jOk,https://youtu.be/9V_JPp24jOk,NULL,0
+9a1b1cd1-9d84-4189-a70d-476c732aadd3,9a1b1cd1-9ba1-4a6f-8204-525e67a349a2,Contoh Soal,9/11/2023 13:06,9/11/2023 13:06,_XsXWYkvWKI,https://youtu.be/_XsXWYkvWKI,NULL,0
+9a1b1cd1-9dee-42c2-b3a6-dc3bb7ecc3db,9a1b1cd1-9dc6-4dda-8ed6-878791e2f293,Himpunan dan Relasi,9/11/2023 13:06,9/11/2023 13:06,jyDAwy1BZP0,https://youtu.be/jyDAwy1BZP0,NULL,0
+9a1b1cd1-9e37-4c6e-a621-a14b012eff1d,9a1b1cd1-9dc6-4dda-8ed6-878791e2f293,"Domain, Kodomain,dan Range",9/11/2023 13:06,9/11/2023 13:06,#NAME?,https://youtu.be/-RcRy5cs9r4,NULL,0
+9a1b1cd1-9e7d-4f4a-8af5-25c6920465da,9a1b1cd1-9dc6-4dda-8ed6-878791e2f293,"Sifat-Sifat, Range, dan Domain dalam Fungsi",9/11/2023 13:06,9/11/2023 13:06,fM_dTnxH7BM,https://youtu.be/fM_dTnxH7BM,NULL,0
+9a1b1cd1-9ec9-466d-830f-bf83b7bd5960,9a1b1cd1-9dc6-4dda-8ed6-878791e2f293,"Operasi Aritmatika, Fungsi Invers dan Grafik Fungsi",9/11/2023 13:06,9/11/2023 13:06,vLJRaeykp2A,https://youtu.be/vLJRaeykp2A,NULL,0
+9a1b1cd1-9f12-4f9f-bdbb-e06014a6a9a0,9a1b1cd1-9dc6-4dda-8ed6-878791e2f293,Contoh Soal Relasi dan Fungsi,9/11/2023 13:06,9/11/2023 13:06,wAOKE0ZOAHQ,https://youtu.be/wAOKE0ZOAHQ,NULL,0
+9a1b1cd1-9f90-42a6-a18b-39670aa12507,9a1b1cd1-9f62-4f9f-91b3-2ac0057b767d,Klasifikasi Fungsi,9/11/2023 13:06,9/11/2023 13:06,QTVy-oYe6xg,https://youtu.be/QTVy-oYe6xg,NULL,0
+9a1b1cd1-9fdc-4e11-b1f3-cb981da8f6e4,9a1b1cd1-9f62-4f9f-91b3-2ac0057b767d,Fungsi Invers,9/11/2023 13:06,9/11/2023 13:06,94r2I7tw4WI,https://youtu.be/94r2I7tw4WI,NULL,0
+9a1b1cd1-a029-4876-b6f0-fdae32e00861,9a1b1cd1-9f62-4f9f-91b3-2ac0057b767d,Fungsi Logaritma dan Logaritma Natural,9/11/2023 13:06,9/11/2023 13:06,X3FI8VJ5U8c,https://youtu.be/X3FI8VJ5U8c,NULL,0
+9a1b1cd1-a075-44df-bfc8-e307151819c1,9a1b1cd1-9f62-4f9f-91b3-2ac0057b767d,Fungsi Eksponensial Natural,9/11/2023 13:06,9/11/2023 13:06,HPksUvGwSx8,https://youtu.be/HPksUvGwSx8,NULL,0
+9a1b1cd1-a0c0-4404-b5da-92ffdf8f0f82,9a1b1cd1-9f62-4f9f-91b3-2ac0057b767d,Fungsi Eksponensial dan Fungsi Trigonometri,9/11/2023 13:06,9/11/2023 13:06,haC_9E5828k,https://youtu.be/haC_9E5828k,NULL,0
+9a1b1cd1-a109-4916-aa31-eee78ed208b5,9a1b1cd1-9f62-4f9f-91b3-2ac0057b767d,Fungsi Invers Trigonometri,9/11/2023 13:06,9/11/2023 13:06,LLqFg2Azgzs,https://youtu.be/LLqFg2Azgzs,NULL,0
+9a1b1cd1-a153-4b2c-9e4b-4737f0bbe604,9a1b1cd1-9f62-4f9f-91b3-2ac0057b767d,Contoh Soal Jenis-Jenis Fungsi,9/11/2023 13:06,9/11/2023 13:06,DCwxBqpve2o,https://youtu.be/DCwxBqpve2o,NULL,0
+9a1b1cd1-a1c8-4c0f-bcc6-404e52c80745,9a1b1cd1-a19c-4ae4-b97b-05c8bdad313b,Konsep dan Definisi Limit,9/11/2023 13:06,9/11/2023 13:06,eWmD48JjNvo,https://youtu.be/eWmD48JjNvo,NULL,0
+9a1b1cd1-a215-4727-b865-95f7bf60e5b1,9a1b1cd1-a19c-4ae4-b97b-05c8bdad313b,Penyelesaian Limit,9/11/2023 13:06,9/11/2023 13:06,QtYITTBuECg,https://youtu.be/QtYITTBuECg,NULL,0
+9a1b1cd1-a261-4715-9cb4-09b45bc72992,9a1b1cd1-a19c-4ae4-b97b-05c8bdad313b,Teorema Limit,9/11/2023 13:06,9/11/2023 13:06,V9521u2Ul8g,https://youtu.be/V9521u2Ul8g,NULL,0
+9a1b1cd1-a2ab-4ee3-bb55-a7391d9d5416,9a1b1cd1-a19c-4ae4-b97b-05c8bdad313b,Kekontinuan Fungsi,9/11/2023 13:06,9/11/2023 13:06,5C1binTL9Vs,https://youtu.be/5C1binTL9Vs,NULL,0
+9a1b1cd1-a2f6-4e15-85d2-eafafe8365e1,9a1b1cd1-a19c-4ae4-b97b-05c8bdad313b,Contoh Soal Limit dan Kekontinuan,9/11/2023 13:06,9/11/2023 13:06,Ggbm8G1r6Gs,https://youtu.be/Ggbm8G1r6Gs,NULL,0
+9a1b1cd1-a366-4489-a2f8-a91fddb10a31,9a1b1cd1-a33d-40e4-a614-992f698f7176,Definisi Turunan,9/11/2023 13:06,9/11/2023 13:06,Bgv2F7x2mUA,https://youtu.be/Bgv2F7x2mUA,NULL,0
+9a1b1cd1-a3b1-423c-b235-9b3f309bb809,9a1b1cd1-a33d-40e4-a614-992f698f7176,Teknik Turunan,9/11/2023 13:06,9/11/2023 13:06,p8EhjlgNA7g,https://youtu.be/p8EhjlgNA7g,NULL,0
+9a1b1cd1-a3fb-415c-970d-d6a4cc9a8897,9a1b1cd1-a33d-40e4-a614-992f698f7176,Aturan Rantai,9/11/2023 13:06,9/11/2023 13:06,GNXhDOZ09BA,https://youtu.be/GNXhDOZ09BA,NULL,0
+9a1b1cd1-a445-4502-81cf-ea13b5bf50e9,9a1b1cd1-a33d-40e4-a614-992f698f7176,Turunan Fungsi Transenden,9/11/2023 13:06,9/11/2023 13:06,5iBiMFMAOnU,https://youtu.be/5iBiMFMAOnU,NULL,0
+9a1b1cd1-a48e-4003-a025-d6d724426fc1,9a1b1cd1-a33d-40e4-a614-992f698f7176,Turunan Ordo Lebih Tinggi dan Turunan Fungsi Implisit,9/11/2023 13:06,9/11/2023 13:06,w_fuO4z5OOI,https://youtu.be/w_fuO4z5OOI,NULL,0
+9a1b1cd1-a4d8-41a2-80f2-cdcab4ae51ac,9a1b1cd1-a33d-40e4-a614-992f698f7176,Turunan Fungsi Invers,9/11/2023 13:06,9/11/2023 13:06,6a5zwE6q-JU,https://youtu.be/6a5zwE6q-JU,NULL,0
+9a1b1cd1-a523-408d-a56d-586f924b2c5e,9a1b1cd1-a33d-40e4-a614-992f698f7176,Contoh Soal Turunan,9/11/2023 13:06,9/11/2023 13:06,45BGfPKCzQU,https://youtu.be/45BGfPKCzQU,NULL,0
+9a1b1cd1-a595-4d9b-8f6e-16770d402ae5,9a1b1cd1-a56b-4f84-9e48-281b5a086331,Definisi Kemonotonan,9/11/2023 13:06,9/11/2023 13:06,OB48B9BQA4U,https://youtu.be/OB48B9BQA4U,NULL,0
+9a1b1cd1-a5e4-43e9-bc73-6858878c8cae,9a1b1cd1-a56b-4f84-9e48-281b5a086331,Definisi Kecekungan dan Titik Belok,9/11/2023 13:06,9/11/2023 13:06,J4v2N6upL_M,https://youtu.be/J4v2N6upL_M,NULL,0
+9a1b1cd1-a638-49d9-acd8-9cf5f104b09f,9a1b1cd1-a56b-4f84-9e48-281b5a086331,Optimasi Fungsi,9/11/2023 13:06,9/11/2023 13:06,6XE0fXpLLkI,https://youtu.be/6XE0fXpLLkI,NULL,0
+9a1b1cd1-a684-4085-9715-d1b1b0449a61,9a1b1cd1-a56b-4f84-9e48-281b5a086331,Contoh Soal Aplikasi Turunan,9/11/2023 13:06,9/11/2023 13:06,ZzRaUAgHJV8,https://youtu.be/ZzRaUAgHJV8,NULL,0
+9a1b1cd1-a6f6-4b43-bf9a-863f2aef2ffd,9a1b1cd1-a6cc-4bc9-ba39-ead1610dbd26,Bentuk Tak Tentu 0 per 0,9/11/2023 13:06,9/11/2023 13:06,UlHWcq5BHe4,https://youtu.be/UlHWcq5BHe4,NULL,0
+9a1b1cd1-a740-4fb0-8afd-8b054b09bb57,9a1b1cd1-a6cc-4bc9-ba39-ead1610dbd26,Bentuk Tak Tentu ? per ?,9/11/2023 13:06,9/11/2023 13:06,M5_IQDbpSH4,https://youtu.be/M5_IQDbpSH4,NULL,0
+9a1b1cd1-a78a-4f9a-a404-5026b4f9c9be,9a1b1cd1-a6cc-4bc9-ba39-ead1610dbd26,Bentuk Tak Tentu Jenis 0 x? dan ? - ?,9/11/2023 13:06,9/11/2023 13:06,e1ztxW_aRe0,https://youtu.be/e1ztxW_aRe0,NULL,0
+9a1b1cd1-a7d5-4bf9-b77b-37910f8ed3d8,9a1b1cd1-a6cc-4bc9-ba39-ead1610dbd26,"Bentuk Tak Tentu Jenis 0^0,1^?,?^0",9/11/2023 13:06,9/11/2023 13:06,1KN4cgrmNng,https://youtu.be/1KN4cgrmNng,NULL,0
+9a1b1cd1-a824-4a2f-93b1-4fb37a435af4,9a1b1cd1-a6cc-4bc9-ba39-ead1610dbd26,Contoh Soal Limit Bentuk Tak Tentu,9/11/2023 13:06,9/11/2023 13:06,IV-tZRkhZ5k,https://youtu.be/IV-tZRkhZ5k,NULL,0
+9a1b1cd1-a8aa-49f8-9780-2e61812bf1f6,9a1b1cd1-a87d-41f4-85b6-5520d3da2870,Definisi Integral Tak Tentu,9/11/2023 13:06,9/11/2023 13:06,HzxUYcSGh90,https://youtu.be/HzxUYcSGh90,NULL,0
+9a1b1cd1-a8f5-4308-83f7-43a673bb47ba,9a1b1cd1-a87d-41f4-85b6-5520d3da2870,Sifat-Sifat Integral,9/11/2023 13:06,9/11/2023 13:06,iXqZ6ixDDtY,https://youtu.be/iXqZ6ixDDtY,NULL,0
+9a1b1cd1-a93a-4e90-95d5-aa2e931a431a,9a1b1cd1-a87d-41f4-85b6-5520d3da2870,Teknik Integrasi dengan Subtitusi,9/11/2023 13:06,9/11/2023 13:06,u4_8dJeo3T8,https://youtu.be/u4_8dJeo3T8,NULL,0
+9a1b1cd1-a97e-475f-b5f7-ed1bc953e968,9a1b1cd1-a87d-41f4-85b6-5520d3da2870,Notasi Sigma dan Product,9/11/2023 13:06,9/11/2023 13:06,1eFANqeB3eo,https://youtu.be/1eFANqeB3eo,NULL,0
+9a1b1cd1-a9ca-4bf2-8606-c03690d9028f,9a1b1cd1-a87d-41f4-85b6-5520d3da2870,Pendahuluan Luas,9/11/2023 13:06,9/11/2023 13:06,uaMtvradLYg,https://youtu.be/uaMtvradLYg,NULL,0
+9a1b1cd1-aa20-4634-894f-14debfb568e0,9a1b1cd1-a87d-41f4-85b6-5520d3da2870,Integral Tentu,9/11/2023 13:06,9/11/2023 13:06,RopHsi3Tnko,https://youtu.be/RopHsi3Tnko,NULL,0
+9a1b1cd1-aa79-4221-b280-469e823c866a,9a1b1cd1-a87d-41f4-85b6-5520d3da2870,Contoh Soal Integral,9/11/2023 13:06,9/11/2023 13:06,ziJ69YZPc6k,https://youtu.be/ziJ69YZPc6k,NULL,0
+9a1b1cd1-ab03-46b3-944f-ec7efbe143b1,9a1b1cd1-aad0-41df-a09f-452186288907,Integral Parsial,9/11/2023 13:06,9/11/2023 13:06,w-AHCgu-ufo,https://youtu.be/w-AHCgu-ufo,NULL,0
+9a1b1cd1-ab52-4f36-b725-482b1a9e414a,9a1b1cd1-aad0-41df-a09f-452186288907,Integral Fungsi Trigonometri,9/11/2023 13:06,9/11/2023 13:06,gvG6FKdD3Pc,https://youtu.be/gvG6FKdD3Pc,NULL,0
+9a1b1cd1-ab98-4cf4-9911-cab4f3aab193,9a1b1cd1-aad0-41df-a09f-452186288907,Integral Fungsi Rasional,9/11/2023 13:06,9/11/2023 13:06,Hks8qJkDz7I,https://youtu.be/Hks8qJkDz7I,NULL,0
+9a1b1cd1-abe0-40db-9ee8-e70bd3b488ea,9a1b1cd1-aad0-41df-a09f-452186288907,Integral Fungsi Aljabar,9/11/2023 13:06,9/11/2023 13:06,elDZQik3Qx4,https://youtu.be/elDZQik3Qx4,NULL,0
+9a1b1cd1-ac27-41fb-bcef-9f47ab6b0370,9a1b1cd1-aad0-41df-a09f-452186288907,Integral Fungsi Rasional dengan Metode Pecahan Parsial,9/11/2023 13:06,9/11/2023 13:06,CGqazfT-3tg,https://youtu.be/CGqazfT-3tg,NULL,0
+9a1b1cd1-ac6c-4cfb-8089-a4f21844e924,9a1b1cd1-aad0-41df-a09f-452186288907,Integral dengan Substitusi Trigonometri,9/11/2023 13:06,9/11/2023 13:06,NsMBBkXwnrU,https://youtu.be/NsMBBkXwnrU,NULL,0
+9a1b1cd1-acb2-498a-b8ad-21a47e306082,9a1b1cd1-aad0-41df-a09f-452186288907,Integral dengan Substitusi Bentuk Akar dan Kuadrat,9/11/2023 13:06,9/11/2023 13:06,bSijbmhEx_0,https://youtu.be/bSijbmhEx_0,NULL,0
+9a1b1cd1-acf7-43be-b678-a3c3a858fe0b,9a1b1cd1-aad0-41df-a09f-452186288907,Contoh Soal Teknik Integrasi,9/11/2023 13:06,9/11/2023 13:06,1rd0432ZCsY,https://youtu.be/1rd0432ZCsY,NULL,0
+9a1b1cd1-ad62-4fc8-879c-17f88de5ae47,9a1b1cd1-ad3b-4590-a442-8ffbb27e3ff4,Definisi Integral Tak Wajar,9/11/2023 13:06,9/11/2023 13:06,ZVGzuMrGtdA,https://youtu.be/ZVGzuMrGtdA,NULL,0
+9a1b1cd1-ada9-4075-9b33-b8ebf8039ab1,9a1b1cd1-ad3b-4590-a442-8ffbb27e3ff4,Kasus Khusus Integral Tak Wajar,9/11/2023 13:06,9/11/2023 13:06,GRNqVsc6QpY,https://youtu.be/GRNqVsc6QpY,NULL,0
+9a1b1cd1-adee-4c17-b6e8-e08960287973,9a1b1cd1-ad3b-4590-a442-8ffbb27e3ff4,Contoh Soal Integral Tak Wajar,9/11/2023 13:06,9/11/2023 13:06,W5L5RWBCQbc,https://youtu.be/W5L5RWBCQbc,NULL,0
+9a1b1cd1-ae5a-417b-891b-8a43f8093600,9a1b1cd1-ae33-4cef-8147-325745e56689,Fungsi Gamma,9/11/2023 13:06,9/11/2023 13:06,YijckE2rXWc,https://youtu.be/YijckE2rXWc,NULL,0
+9a1b1cd1-ae9f-4bac-97e3-923034096036,9a1b1cd1-ae33-4cef-8147-325745e56689,Fungsi Beta,9/11/2023 13:06,9/11/2023 13:06,elmFWq3BYhI,https://youtu.be/elmFWq3BYhI,NULL,0
+9a1b1cd1-aee6-4c67-9c5e-a37ac7bd6f35,9a1b1cd1-ae33-4cef-8147-325745e56689,Contoh Soal Fungsi Gamma dan Beta,9/11/2023 13:06,9/11/2023 13:06,fhluoPfU2ow,https://youtu.be/fhluoPfU2ow,NULL,0
+9a1b1cd1-af52-4cd4-91ed-981e0f04556b,9a1b1cd1-af2b-43ba-aa78-a347a28fa5cb,Luas Daerah,9/11/2023 13:06,9/11/2023 13:06,gv_oSzfQI74,https://youtu.be/gv_oSzfQI74,NULL,0
+9a1b1cd1-af98-4ae5-80d3-42564cc82d84,9a1b1cd1-af2b-43ba-aa78-a347a28fa5cb,Menghitung Volume Benda Putar,9/11/2023 13:06,9/11/2023 13:06,zUsMX_fiqSE,https://youtu.be/zUsMX_fiqSE,NULL,0
+9a1b1cd1-afdc-4060-b496-15eacde1571e,9a1b1cd1-af2b-43ba-aa78-a347a28fa5cb,Metode Cakram,9/11/2023 13:06,9/11/2023 13:06,HrjPv1pPwk4,https://youtu.be/HrjPv1pPwk4,NULL,0
+9a1b1cd1-b022-4a2e-8d7e-4152719cd3f5,9a1b1cd1-af2b-43ba-aa78-a347a28fa5cb,Metode Cincin,9/11/2023 13:06,9/11/2023 13:06,omrvVJ_qHgc,https://youtu.be/omrvVJ_qHgc,NULL,0
+9a1b1cd1-b068-4361-a0d3-b6934b6afef6,9a1b1cd1-af2b-43ba-aa78-a347a28fa5cb,Contoh Soal Aplikasi Integral,9/11/2023 13:06,9/11/2023 13:06,40a9enXdigo,https://youtu.be/40a9enXdigo,NULL,0
+9a1b1cd1-b0e0-494a-8ea1-3ed35bcd87da,9a1b1cd1-b0b8-467f-b71f-6ca327b696e2,Barisan Tak Hingga,9/11/2023 13:06,9/11/2023 13:06,rD9i5JZ2pOg,https://youtu.be/rD9i5JZ2pOg,NULL,0
+9a1b1cd1-b125-4541-a635-94fc3645bcc0,9a1b1cd1-b0b8-467f-b71f-6ca327b696e2,Sifat-Sifat Limit Barisan,9/11/2023 13:06,9/11/2023 13:06,1Z3l2F7kWfM,https://youtu.be/1Z3l2F7kWfM,NULL,0
+9a1b1cd1-b169-4b74-9ffc-cb8cdc85ec68,9a1b1cd1-b0b8-467f-b71f-6ca327b696e2,Uji Kemonotonan Barisan,9/11/2023 13:06,9/11/2023 13:06,al9nPCFcBe4,https://youtu.be/al9nPCFcBe4,NULL,0
+9a1b1cd1-b1ae-4314-86a4-4363fd9c022d,9a1b1cd1-b0b8-467f-b71f-6ca327b696e2,Deret Tak Hingga,9/11/2023 13:06,9/11/2023 13:06,U-DYLOuU8p4,https://youtu.be/U-DYLOuU8p4,NULL,0
+9a1b1cd1-b1f3-4aac-bc39-468d751d6f8d,9a1b1cd1-b0b8-467f-b71f-6ca327b696e2,Deret Harmonik dan Deret Geometri,9/11/2023 13:06,9/11/2023 13:06,u2SsrNkKocE,https://youtu.be/u2SsrNkKocE,NULL,0
+9a1b1cd1-b238-4f7e-a3a3-a17dbbc79a00,9a1b1cd1-b0b8-467f-b71f-6ca327b696e2,Teorema Uji Divergen dan Sifat Deret Konvergen,9/11/2023 13:06,9/11/2023 13:06,mqdXTywpFN4,https://youtu.be/mqdXTywpFN4,NULL,0
+9a1b1cd1-b297-4f93-9e88-0c3b33807326,9a1b1cd1-b0b8-467f-b71f-6ca327b696e2,Contoh Soal Barisan dan Deret Tak Hingga,9/11/2023 13:06,9/11/2023 13:06,QWULMU9L5f4,https://youtu.be/QWULMU9L5f4,NULL,0
+9a1b1cd1-b332-41e1-83d2-308f3997f593,9a1b1cd1-b2f9-475d-ae3e-c5728d682e86,Macam-Macam Uji dan Uji Integral,9/11/2023 13:06,9/11/2023 13:06,IxGFJI0k-8s,https://youtu.be/IxGFJI0k-8s,NULL,0
+9a1b1cd1-b394-46f3-8227-091bbe8ce35e,9a1b1cd1-b2f9-475d-ae3e-c5728d682e86, Uji Banding dan Uji Limit,9/11/2023 13:06,9/11/2023 13:06,W9aoMCiFWFg,https://youtu.be/W9aoMCiFWFg,NULL,0
+9a1b1cd1-b3f6-4de7-9149-627f18605be3,9a1b1cd1-b2f9-475d-ae3e-c5728d682e86,Uji Akar dan Uji Rasio,9/11/2023 13:06,9/11/2023 13:06,65vn5s8HZWU,https://youtu.be/65vn5s8HZWU,NULL,0
+9a1b1cd1-b459-48b3-b376-3388e0db8f29,9a1b1cd1-b2f9-475d-ae3e-c5728d682e86,Uji Deret Ganti Tanda dan Uji Konvergen Mutlak + Bersyarat,9/11/2023 13:06,9/11/2023 13:06,5y0cj6PWMG0,https://youtu.be/5y0cj6PWMG0,NULL,0
+9a1b1cd1-b4bb-4cf8-9594-dd3abd2785a1,9a1b1cd1-b2f9-475d-ae3e-c5728d682e86,Uji Deret P dan Uji Rasio Mutlak,9/11/2023 13:06,9/11/2023 13:06,mI8Yjz8M24E,https://youtu.be/mI8Yjz8M24E,NULL,0
+9a1b1cd1-b51e-491b-bb2c-5041a81ebf5f,9a1b1cd1-b2f9-475d-ae3e-c5728d682e86,Contoh Soal Uji Kekonvergenan Deret Tak Hingga,9/11/2023 13:06,9/11/2023 13:06,yAz44WQ8BfQ,https://youtu.be/yAz44WQ8BfQ,NULL,0
+9a1b1cd1-b5b1-49bd-895d-0cdcf4fbccd6,9a1b1cd1-b57b-4338-a746-570bed9a212f,Polinomial Taylor dan Polinomial Maclaurin,9/11/2023 13:06,9/11/2023 13:06,pZZlojI4I3M,https://youtu.be/pZZlojI4I3M,NULL,0
+9a1b1cd1-b613-4738-8c3d-3d6b213c1bca,9a1b1cd1-b57b-4338-a746-570bed9a212f,Deret Taylor dan Deret Maclaurin,9/11/2023 13:06,9/11/2023 13:06,TiRPYayIKLc,https://youtu.be/TiRPYayIKLc,NULL,0
+9a1b1cd1-b675-46e7-8776-f2bde052589a,9a1b1cd1-b57b-4338-a746-570bed9a212f,"Deret Kuasa dalam x, Radius dan Interval Konvergensi",9/11/2023 13:06,9/11/2023 13:06,RYTHnRJAR6U,https://youtu.be/RYTHnRJAR6U,NULL,0
+9a1b1cd1-b6d1-46ab-bae2-f98b75d6f498,9a1b1cd1-b57b-4338-a746-570bed9a212f,"Deret Kuasa dalam x-a, radius dan Interval Konvergensi",9/11/2023 13:06,9/11/2023 13:06,141Crf7Cf1U,https://youtu.be/141Crf7Cf1U,NULL,0
+9a1b1cd1-b726-411e-9279-c85ebcd6ed9d,9a1b1cd1-b57b-4338-a746-570bed9a212f,"Operasi Deret Taylor, Deret Maclaurin dan Deret Kuasa",9/11/2023 13:06,9/11/2023 13:06,duI0tBnTF9E,https://youtu.be/duI0tBnTF9E,NULL,0
+9a1b1cd1-b779-45ec-bebb-52a14d576f73,9a1b1cd1-b57b-4338-a746-570bed9a212f,Contoh Soal Deret Kuasa,9/11/2023 13:06,9/11/2023 13:06,X3wJAd3vLJw,https://youtu.be/X3wJAd3vLJw,NULL,0
+9a1b1cd1-b7f6-45dd-be55-ab266eef3fdb,9a1b1cd1-b7c9-4c25-b1a2-3ef1c0f0542c,Fungsi 2 Peubah,9/11/2023 13:06,9/11/2023 13:06,LWJDB5uFRi0,https://youtu.be/LWJDB5uFRi0,NULL,0
+9a1b1cd1-b847-4047-b073-5a16e91f9974,9a1b1cd1-b7c9-4c25-b1a2-3ef1c0f0542c,Contoh Soal Fungsi 2 Peubah,9/11/2023 13:06,9/11/2023 13:06,KyJ9tS5pGnA,https://youtu.be/KyJ9tS5pGnA,NULL,0
+9a1b1cd1-b89a-4603-8b4e-fa5c294ded15,9a1b1cd1-b7c9-4c25-b1a2-3ef1c0f0542c,Grafik Fungsi 2 Peubah,9/11/2023 13:06,9/11/2023 13:06,#NAME?,https://youtu.be/-JGxeScFvdY,NULL,0
+9a1b1cd1-b8ea-4f09-ab87-023280d042c0,9a1b1cd1-b7c9-4c25-b1a2-3ef1c0f0542c,Contoh Soal Grafik Fungsi 2 Peubah,9/11/2023 13:06,9/11/2023 13:06,oVoSXmibhdc,https://youtu.be/oVoSXmibhdc,NULL,0
+9a1b1cd1-b93a-4231-84b4-f352bd967824,9a1b1cd1-b7c9-4c25-b1a2-3ef1c0f0542c,Peta Kontur Fungsi 2 Peubah,9/11/2023 13:06,9/11/2023 13:06,UoxS-yijzTY,https://youtu.be/UoxS-yijzTY,NULL,0
+9a1b1cd1-bbae-4795-9816-c8d1bb9cfead,9a1b1cd1-b7c9-4c25-b1a2-3ef1c0f0542c,Contoh Soal Peta Kontur Fungsi 2 Peubah,9/11/2023 13:06,9/11/2023 13:06,WnqUb02ckF8,https://youtu.be/WnqUb02ckF8,NULL,0
+9a1b1cd1-bbff-48a2-a553-7785a24155fa,9a1b1cd1-b7c9-4c25-b1a2-3ef1c0f0542c,Fungsi 3 Peubah,9/11/2023 13:06,9/11/2023 13:06,WnqUb02ckF8,https://youtu.be/WnqUb02ckF8,NULL,0
+9a1b1cd1-bc52-4cca-befd-ae856b4c5f3d,9a1b1cd1-b7c9-4c25-b1a2-3ef1c0f0542c,Contoh Soal Fungsi 3 Peubah,9/11/2023 13:06,9/11/2023 13:06,YgMk9CNikoM,https://youtu.be/YgMk9CNikoM,NULL,0
+9a1b1cd1-bca4-4d2e-9d01-8e223eca3f07,9a1b1cd1-b7c9-4c25-b1a2-3ef1c0f0542c,Peta Kontur Fungsi 3 Peubah,9/11/2023 13:06,9/11/2023 13:06,JZbizLyplO0,https://youtu.be/JZbizLyplO0,NULL,0
+9a1b1cd1-bd20-4eb5-af5c-b464ebfcc0a1,9a1b1cd1-bcf4-4d5a-a974-b3787132b866,Review Limit 1 Peubah,9/11/2023 13:06,9/11/2023 13:06,mxSbhSwfEnI,https://youtu.be/mxSbhSwfEnI,NULL,0
+9a1b1cd1-bd72-4377-a11e-19aa9020804a,9a1b1cd1-bcf4-4d5a-a974-b3787132b866,Limit 2 Peubah,9/11/2023 13:06,9/11/2023 13:06,78dNb2xxdPo,https://youtu.be/78dNb2xxdPo,NULL,0
+9a1b1cd1-bdc4-45a4-8447-fa2a126f90be,9a1b1cd1-bcf4-4d5a-a974-b3787132b866,Sifat Limit 2 Peubah,9/11/2023 13:06,9/11/2023 13:06,Tj0J2rzyd4M,https://youtu.be/Tj0J2rzyd4M,NULL,0
+9a1b1cd1-be15-4807-967e-217cc400ed13,9a1b1cd1-bcf4-4d5a-a974-b3787132b866,Contoh Soal Menghitung Limit 2 Peubah,9/11/2023 13:06,9/11/2023 13:06,M1kAlABsR6U,https://youtu.be/M1kAlABsR6U,NULL,0
+9a1b1cd1-be67-4f2f-881b-c8217489ee00,9a1b1cd1-bcf4-4d5a-a974-b3787132b866,Kekontinuan Fungsi 2 Peubah,9/11/2023 13:06,9/11/2023 13:06,psYUdkqtkr4,https://youtu.be/psYUdkqtkr4,NULL,0
+9a1b1cd1-beb8-4289-a112-3ec9248bd77b,9a1b1cd1-bcf4-4d5a-a974-b3787132b866,Contoh Soal Kekontinuan Fungsi 2 Peubah,9/11/2023 13:06,9/11/2023 13:06,NlwVIKKBi2Y,https://youtu.be/NlwVIKKBi2Y,NULL,0
+9a1b1cd1-bf09-4fc5-acc9-b82c74725584,9a1b1cd1-bcf4-4d5a-a974-b3787132b866,Limit dan Kekontinuan Fungsi 3 Peubah,9/11/2023 13:06,9/11/2023 13:06,XgQO36hBAxk,https://youtu.be/XgQO36hBAxk,NULL,0
+9a1b1cd1-bf83-450b-ba27-52e31c4e1d83,9a1b1cd1-bf57-491c-b908-02a0bc95e8e3,Definisi Turunan Parsial 2 Peubah,9/11/2023 13:06,9/11/2023 13:06,4N-P2FbW06I,https://youtu.be/4N-P2FbW06I,NULL,0
+9a1b1cd1-bfd5-4a6e-8482-26a0432ba27e,9a1b1cd1-bf57-491c-b908-02a0bc95e8e3,Turunan Parsial Tingkat 2,9/11/2023 13:06,9/11/2023 13:06,GFcDE3kel_s,https://youtu.be/GFcDE3kel_s,NULL,0
+9a1b1cd1-c025-4cce-b939-76213b57509f,9a1b1cd1-bf57-491c-b908-02a0bc95e8e3,Turunan Parsial Tingkat 3 dan n Peubah,9/11/2023 13:06,9/11/2023 13:06,REMyDFg-FAc,https://youtu.be/REMyDFg-FAc,NULL,0
+9a1b1cd1-c077-4b34-b3bd-3cbcb783c08c,9a1b1cd1-bf57-491c-b908-02a0bc95e8e3,Aturan Rantai Fungsi 2 Peubah,9/11/2023 13:06,9/11/2023 13:06,eb3Z1yd19wI,https://youtu.be/eb3Z1yd19wI,NULL,0
+9a1b1cd1-c0c8-4446-b2d4-2537019c0233,9a1b1cd1-bf57-491c-b908-02a0bc95e8e3,Aturan Rantai Fungsi 3 Peubah dan n Peubah,9/11/2023 13:06,9/11/2023 13:06,KVtcds5DdAs,https://youtu.be/KVtcds5DdAs,NULL,0
+9a1b1cd1-c117-44eb-a114-fc6ab8d86fce,9a1b1cd1-bf57-491c-b908-02a0bc95e8e3,Turunan Fungsi Implisit,9/11/2023 13:06,9/11/2023 13:06,HityneXV1eo,https://youtu.be/HityneXV1eo,NULL,0
+9a1b1cd1-c16b-4a1b-912d-dee9b489eafe,9a1b1cd1-bf57-491c-b908-02a0bc95e8e3,Contoh Soal Turunan Parsial Fungsi 2 Peubah,9/11/2023 13:06,9/11/2023 13:06,YIk3GX-k5zI,https://youtu.be/YIk3GX-k5zI,NULL,0
+9a1b1cd1-c1e6-47b6-85de-061e1bcbbec1,9a1b1cd1-c1ba-402f-af55-ea2448ec2a61,Pengantar Nilai Maksimum dan Minimum Lokal,9/11/2023 13:06,9/11/2023 13:06,HJG4Bk9QL84,https://youtu.be/HJG4Bk9QL84,NULL,0
+9a1b1cd1-c238-475d-8997-5016cac9fea4,9a1b1cd1-c1ba-402f-af55-ea2448ec2a61,"Nilai Ekstrim, Titik Kritis, dan Titik Pelana",9/11/2023 13:06,9/11/2023 13:06,9eYXjHsgu58,https://youtu.be/9eYXjHsgu58,NULL,0
+9a1b1cd1-c28a-45e0-9172-3b98e969b26b,9a1b1cd1-c1ba-402f-af55-ea2448ec2a61,Teorema Uji Turunan Pertama dan Kedua,9/11/2023 13:06,9/11/2023 13:06,8JB1CRYDjEk,https://youtu.be/8JB1CRYDjEk,NULL,0
+9a1b1cd1-c2da-43cb-b70d-6e8a9ca1a478,9a1b1cd1-c1ba-402f-af55-ea2448ec2a61,Nilai Maksimum dan Minimum Mutlak,9/11/2023 13:06,9/11/2023 13:06,4HhunlzfuWI,https://youtu.be/4HhunlzfuWI,NULL,0
+9a1b1cd1-c32b-434e-bd69-d3862903c59d,9a1b1cd1-c1ba-402f-af55-ea2448ec2a61,Metoda Pengali Lagrange,9/11/2023 13:06,9/11/2023 13:06,JWBKYk8ranc,https://youtu.be/JWBKYk8ranc,NULL,0
+9a1b1cd1-c37c-4c87-9bc2-91928a2ffa4f,9a1b1cd1-c1ba-402f-af55-ea2448ec2a61,Contoh Soal Optimasi Fungsi Peubah Banyak,9/11/2023 13:06,9/11/2023 13:06,fvPGKo5riis,https://youtu.be/fvPGKo5riis,NULL,0
+9a1b1cd1-c40d-48a5-a7e4-3cae5d36010a,9a1b1cd1-c3d4-4b7b-94b6-d4c8b67723e6,Contoh soal Integral lipat 2 batas konstan,9/11/2023 13:06,9/11/2023 13:06,VmCKFW9ev6Y,https://youtu.be/VmCKFW9ev6Y,NULL,0
+9a1b1cd1-c462-4a54-b21c-a82acd35cd68,9a1b1cd1-c3d4-4b7b-94b6-d4c8b67723e6,Contoh Soal Integral Lipat 2 Batas Kurva,9/11/2023 13:06,9/11/2023 13:06,1GGKWdToeng,https://youtu.be/1GGKWdToeng,NULL,0
+9a1b1cd1-c4ae-4e82-8255-a66804f4adc6,9a1b1cd1-c3d4-4b7b-94b6-d4c8b67723e6,Integral Lipat 2,9/11/2023 13:06,9/11/2023 13:06,U4v93nZ9h6I,https://youtu.be/U4v93nZ9h6I,NULL,0
+9a1b1cd1-c51d-4ae5-9766-c180ca32696b,9a1b1cd1-c4f3-43f4-8c7b-64c9b3342187,Luas dan Volume dengan Integral Lipat 2,9/11/2023 13:06,9/11/2023 13:06,yYPOuTbPoNw,https://youtu.be/yYPOuTbPoNw,NULL,0
+9a1b1cd1-c566-4b0f-9d2a-5b8f0c8c742c,9a1b1cd1-c4f3-43f4-8c7b-64c9b3342187,Contoh Soal 1 Aplikasi Integral Lipat,9/11/2023 13:06,9/11/2023 13:06,esqpOOua_dE,https://youtu.be/esqpOOua_dE,NULL,0
+9a1b1cd1-c5af-40e4-ba9f-c715ffb2f732,9a1b1cd1-c4f3-43f4-8c7b-64c9b3342187,Volume dengan Integral Lipat 3,9/11/2023 13:06,9/11/2023 13:06,vlX3N3P65M0,https://youtu.be/vlX3N3P65M0,NULL,0
+9a1b1cd1-c5f9-4c18-8a61-edbf8fa380b2,9a1b1cd1-c4f3-43f4-8c7b-64c9b3342187,Contoh Soal 2 Aplikasi Integral Lipat,9/11/2023 13:06,9/11/2023 13:06,5L61nREqDHY,https://youtu.be/5L61nREqDHY,NULL,0
+9a1b1cd1-c668-43af-9af1-ac3eba636901,9a1b1cd1-c641-438a-91c9-fcc7814ee96b,Integral Lipat 3 Pada Balok,9/11/2023 13:06,9/11/2023 13:06,AOM9GfQJxV4,https://youtu.be/AOM9GfQJxV4,NULL,0
+9a1b1cd1-c6b1-4afd-9ede-03428baaf20a,9a1b1cd1-c641-438a-91c9-fcc7814ee96b,Contoh Soal 1 Integral Lipat 3,9/11/2023 13:06,9/11/2023 13:06,XAIlLxTLOQk,https://youtu.be/XAIlLxTLOQk,NULL,0
+9a1b1cd1-c6f8-43da-9c69-32c7a2d0dab7,9a1b1cd1-c641-438a-91c9-fcc7814ee96b,Sifat Sifat Integral Lipat 3,9/11/2023 13:06,9/11/2023 13:06,syxXRdFWVSE,https://youtu.be/syxXRdFWVSE,NULL,0
+9a1b1cd1-c740-4d4c-9f27-97b692f597a3,9a1b1cd1-c641-438a-91c9-fcc7814ee96b,Integral Lipat 3 Pada Daerah Sebarang,9/11/2023 13:06,9/11/2023 13:06,UpNqVz9alqk,https://youtu.be/UpNqVz9alqk,NULL,0
+9a1b1cd1-c78b-44b3-baeb-d021b91f0c02,9a1b1cd1-c641-438a-91c9-fcc7814ee96b,Peninjauan Batas Integral Kiri Kanan dan Depan Belakang,9/11/2023 13:06,9/11/2023 13:06,CPoxXj1jmYI,https://youtu.be/CPoxXj1jmYI,NULL,0
+9a1b1cd1-c7d6-4999-9e71-1898b1017ac9,9a1b1cd1-c641-438a-91c9-fcc7814ee96b,Contoh Soal 2 Integral Lipat 3,9/11/2023 13:06,9/11/2023 13:06,uEN2-_wp62w,https://youtu.be/uEN2-_wp62w,NULL,0
+9a1b1cd1-c845-4d9d-8d12-7b5a43b4bab6,9a1b1cd1-c81b-4189-9ffd-8780eae4ca2c,Koordinat Kartesius,9/11/2023 13:06,9/11/2023 13:06,TIUT318tkcY,https://youtu.be/TIUT318tkcY,NULL,0
+9a1b1cd1-c88b-4be6-8a39-b9e379c4cfd2,9a1b1cd1-c81b-4189-9ffd-8780eae4ca2c,Koordinat Polar,9/11/2023 13:06,9/11/2023 13:06,Xr8tx79eGo0,https://youtu.be/Xr8tx79eGo0,NULL,0
+9a1b1cd1-c8d5-490a-b742-c601f900e757,9a1b1cd1-c81b-4189-9ffd-8780eae4ca2c,Konversi Koordinat Polar ke Kartesius,9/11/2023 13:06,9/11/2023 13:06,TsRxKZUPuOU,https://youtu.be/TsRxKZUPuOU,NULL,0
+9a1b1cd1-c91e-4e77-88e1-2c1233234d01,9a1b1cd1-c81b-4189-9ffd-8780eae4ca2c,Grafik Pada Koordinat Polar,9/11/2023 13:06,9/11/2023 13:06,LDAtlNzwlwo,https://youtu.be/LDAtlNzwlwo,NULL,0
+9a1b1cd1-c967-49b1-a106-9aba3a29e604,9a1b1cd1-c81b-4189-9ffd-8780eae4ca2c,Konversi Persamaan Koordinat Polar ke Koordinat Kartesius,9/11/2023 13:06,9/11/2023 13:06,6UUuVTyBDjs,https://youtu.be/6UUuVTyBDjs,NULL,0
+9a1b1cd1-ca47-4954-be02-39553ffa74a3,9a1b1cd1-c81b-4189-9ffd-8780eae4ca2c,Contoh Soal 1 Sistem Koordinat,9/11/2023 13:06,9/11/2023 13:06,uUzC_zLda2Y,https://youtu.be/uUzC_zLda2Y,NULL,0
+9a1b1cd1-ca92-491b-9569-ac6f15ca8f65,9a1b1cd1-c81b-4189-9ffd-8780eae4ca2c,Koordinat Tabung dan Konversi ke Koordinat Kartesius,9/11/2023 13:06,9/11/2023 13:06,oUnt_3mFuS8,https://youtu.be/oUnt_3mFuS8,NULL,0
+9a1b1cd1-cad9-4aac-ae4a-b47d785dbaa6,9a1b1cd1-c81b-4189-9ffd-8780eae4ca2c,Koordinat Bola dan Konversinya,9/11/2023 13:06,9/11/2023 13:06,K3R_mSEpfgM,https://youtu.be/K3R_mSEpfgM,NULL,0
+9a1b1cd1-cb48-4066-9b9e-9f831f1f3bb4,9a1b1cd1-cb1f-4156-9769-0604e067c7b3,Transformasi Koordinat,9/11/2023 13:06,9/11/2023 13:06,ErafZkJ5-TY,https://youtu.be/ErafZkJ5-TY,NULL,0
+9a1b1cd1-cb91-426e-bb63-fc69be044119,9a1b1cd1-cb1f-4156-9769-0604e067c7b3,Contoh Soal 1 Transformasi Koordinat dan Perubahan Variabel Pada Integral Lipat,9/11/2023 13:06,9/11/2023 13:06,gjILc9AP8e0,https://youtu.be/gjILc9AP8e0,NULL,0
+9a1b1cd1-cbd9-4b69-8896-d643f3df4f72,9a1b1cd1-cb1f-4156-9769-0604e067c7b3,Perubahan Variabel Pada Integral Lipat,9/11/2023 13:06,9/11/2023 13:06,Ztg_sZoz4x0,https://youtu.be/Ztg_sZoz4x0,NULL,0
+9a1b1cd1-cc22-48c2-a3a3-61f98c8e4ce9,9a1b1cd1-cb1f-4156-9769-0604e067c7b3,Contoh Soal 2 Transformasi Koordinat dan Perubahan Variabel Pada Integral Lipat,9/11/2023 13:06,9/11/2023 13:06,#NAME?,https://youtu.be/-sLi60z6sYo,NULL,0
+9a1b1cd1-cc69-4324-b612-0fcbaf66e8f4,9a1b1cd1-cb1f-4156-9769-0604e067c7b3,Integral Lipat 3 Dengan Transformasi Koordinat,9/11/2023 13:06,9/11/2023 13:06,ISNAW86kDeo,https://youtu.be/ISNAW86kDeo,NULL,0
+9a1b1cd1-ccb2-459c-bba8-c923cd8330bf,9a1b1cd1-cb1f-4156-9769-0604e067c7b3,Contoh Soal 3 Transformasi Koordinat dan Perubahan Variabel Pada Integral Lipat,9/11/2023 13:06,9/11/2023 13:06,ZVPkwDtwodg,https://youtu.be/ZVPkwDtwodg,NULL,0
+9a1b1cd1-cd21-4ee2-83af-7cb9e8f6e699,9a1b1cd1-ccfa-481b-9080-01cc8bc978b7,Definisi Persamaan Diferensial dan Pembentukannya,9/11/2023 13:06,9/11/2023 13:06,dME01fnxa88,https://youtu.be/dME01fnxa88,NULL,0
+9a1b1cd1-cd6a-40c5-8c3e-17be0c637450,9a1b1cd1-ccfa-481b-9080-01cc8bc978b7,Contoh Soal 1 Persamaan Diferensial,9/11/2023 13:06,9/11/2023 13:06,9Y1SLl1fwe4,https://youtu.be/9Y1SLl1fwe4,NULL,0
+9a1b1cd1-cdb2-4d5d-b1b1-9fb458e6a0ca,9a1b1cd1-ccfa-481b-9080-01cc8bc978b7,Solusi Persamaan Diferensial,9/11/2023 13:06,9/11/2023 13:06,hfh_psNi_wk,https://youtu.be/hfh_psNi_wk,NULL,0
+9a1b1cd1-cdf9-4a76-b613-98428864eff8,9a1b1cd1-ccfa-481b-9080-01cc8bc978b7,Contoh Soal 2 Persamaan Diferensial,9/11/2023 13:06,9/11/2023 13:06,_eB09FWBBVo,https://youtu.be/_eB09FWBBVo,NULL,0
+9a1b1cd1-ce41-42f8-98ba-5cb5d27b9f63,9a1b1cd1-ccfa-481b-9080-01cc8bc978b7,Pemecahan Persamaan Diferensial Orde I,9/11/2023 13:06,9/11/2023 13:06,Jy5nBgTiK34,https://youtu.be/Jy5nBgTiK34,NULL,0
+9a1b1cd1-ce90-459d-8faf-dfe0e5db7fd4,9a1b1cd1-ccfa-481b-9080-01cc8bc978b7,Contoh Soal 3 Persamaan Diferensial,9/11/2023 13:06,9/11/2023 13:06,Xttz60-g5AQ,https://youtu.be/Xttz60-g5AQ,NULL,0
+9a1b1cd1-cf10-49b4-a090-4d2d7f183cba,9a1b1cd1-cee7-4c0d-810b-d1ab9caef6b1,Pengantar Statistika Matematika,9/11/2023 13:06,9/11/2023 13:06,Yx6MX8aU7vU,https://youtu.be/Yx6MX8aU7vU,NULL,0
+9a1b1cd1-cf59-4c2d-896c-dd0ab43e82fb,9a1b1cd1-cee7-4c0d-810b-d1ab9caef6b1,Contoh Soal Pengantar Statistika Matematika,9/11/2023 13:06,9/11/2023 13:06,lBM2IbLbjM4,https://youtu.be/lBM2IbLbjM4,NULL,0
+9a1b1cd1-cfcf-413f-902c-3ab416458041,9a1b1cd1-cfa6-42de-b083-d94bee81e62e,Joint Distributions Diskrit,9/11/2023 13:06,9/11/2023 13:06,RVz1MCiZ0qo,https://youtu.be/RVz1MCiZ0qo,NULL,0
+9a1b1cd1-d01a-4f42-80cf-cfd616cd6995,9a1b1cd1-cfa6-42de-b083-d94bee81e62e,Marginal Distributions Diskrit,9/11/2023 13:06,9/11/2023 13:06,nA-cBzbXpfk,https://youtu.be/nA-cBzbXpfk,NULL,0
+9a1b1cd1-d065-40ef-8511-2603d5852a77,9a1b1cd1-cfa6-42de-b083-d94bee81e62e,Conditional Distributions Diskrit,9/11/2023 13:06,9/11/2023 13:06,pP-LWMIF3qk,https://youtu.be/pP-LWMIF3qk,NULL,0
+9a1b1cd1-d0ac-42d7-8bf3-356739a62721,9a1b1cd1-cfa6-42de-b083-d94bee81e62e,Independent  Events Vs Disjoint Events,9/11/2023 13:06,9/11/2023 13:06,_1NJVVDmT7U,https://youtu.be/_1NJVVDmT7U,NULL,0
+9a1b1cd1-d0f5-402f-99d2-ad4fb27af5cb,9a1b1cd1-cfa6-42de-b083-d94bee81e62e,Contoh Soal Joint Distributions Diskrit,9/11/2023 13:06,9/11/2023 13:06,UgZXM2Tlpi8,https://youtu.be/UgZXM2Tlpi8,NULL,0
+9a1b1cd1-d15f-4ca6-9720-46ab8af2e118,9a1b1cd1-d139-43f7-85e5-c1b2b421452c,Joint Distributions Continuous,9/11/2023 13:06,9/11/2023 13:06,6dv3wOqLCF0,https://youtu.be/6dv3wOqLCF0,NULL,0
+9a1b1cd1-d1a7-44f5-9b02-e9c16bff0356,9a1b1cd1-d139-43f7-85e5-c1b2b421452c,Marginal PDF Continuous,9/11/2023 13:06,9/11/2023 13:06,qNnkQFNdOr8,https://youtu.be/qNnkQFNdOr8,NULL,0
+9a1b1cd1-d1ee-4ae7-88de-6771e1c5542b,9a1b1cd1-d139-43f7-85e5-c1b2b421452c,Conditional Distributions Continuous,9/11/2023 13:06,9/11/2023 13:06,geqlmo108LY,https://youtu.be/geqlmo108LY,NULL,0
+9a1b1cd1-d235-4c50-a960-5fdc1c5d59a8,9a1b1cd1-d139-43f7-85e5-c1b2b421452c,Independency,9/11/2023 13:06,9/11/2023 13:06,jHRuWJOkiHc,https://youtu.be/jHRuWJOkiHc,NULL,0
+9a1b1cd1-d27f-4222-a279-48b33875a0ea,9a1b1cd1-d139-43f7-85e5-c1b2b421452c,Contoh Soal Joint Distributions Continuous,9/11/2023 13:06,9/11/2023 13:06,vKZSrbpjksQ,https://youtu.be/vKZSrbpjksQ,NULL,0
+9a1b1cd1-d2f5-4917-913a-9d32c45da2ec,9a1b1cd1-d2cb-431a-8089-dacc53f3b1e7,"Pengantar, Nilai Harapan Peubah Acak",9/11/2023 13:06,9/11/2023 13:06,Jb-75TOZtUw,https://youtu.be/Jb-75TOZtUw,NULL,0
+9a1b1cd1-d33e-47e1-b39e-100b9d52bafa,9a1b1cd1-d2cb-431a-8089-dacc53f3b1e7,"Covariance, Variance, and Correlation",9/11/2023 13:06,9/11/2023 13:06,GPjcAqBRzwk,https://youtu.be/GPjcAqBRzwk,NULL,0
+9a1b1cd1-d387-4d90-a45e-fdb41960cd5c,9a1b1cd1-d2cb-431a-8089-dacc53f3b1e7,Contoh Soal Properties of Random Variables I,9/11/2023 13:06,9/11/2023 13:06,cVuSm-Fn3eU,https://youtu.be/cVuSm-Fn3eU,NULL,0
+9a1b1cd1-d3f3-4cca-9d19-3a6826ed4649,9a1b1cd1-d3ca-49f8-b5a5-52eaf5c49414,Nilai Harapan Bersyarat,9/11/2023 13:06,9/11/2023 13:06,cMGjqEu-iTg,https://youtu.be/cMGjqEu-iTg,NULL,0
+9a1b1cd1-d439-496b-8919-8f35f2814d0f,9a1b1cd1-d3ca-49f8-b5a5-52eaf5c49414,Varians Bersyarat,9/11/2023 13:06,9/11/2023 13:06,nvG03Y0HhFo,https://youtu.be/nvG03Y0HhFo,NULL,0
+9a1b1cd1-d481-4d20-9c39-7de0f554ca1f,9a1b1cd1-d3ca-49f8-b5a5-52eaf5c49414,Moment dan MGF,9/11/2023 13:06,9/11/2023 13:06,#NAME?,https://youtu.be/-Wildg3WBu4,NULL,0
+9a1b1cd1-d4c7-430a-b405-13575884f270,9a1b1cd1-d3ca-49f8-b5a5-52eaf5c49414,Contoh Soal Properties of Random Variables II,9/11/2023 13:06,9/11/2023 13:06,WLrYsuUz55k,https://youtu.be/WLrYsuUz55k,NULL,0
+9a1b1cd1-d532-40d6-86a7-8b25ab382f08,9a1b1cd1-d50a-4ef9-b6a2-bbdfc382c469,Multinomial _ Extended Hypergeometric Distribution,9/11/2023 13:06,9/11/2023 13:06,0MCp8D39qZg,https://youtu.be/0MCp8D39qZg,NULL,0
+9a1b1cd1-d578-4610-b1e0-eeef197d8bb7,9a1b1cd1-d50a-4ef9-b6a2-bbdfc382c469,Contoh Soal Multinomial _ Extended Hypergeometric Distribution,9/11/2023 13:06,9/11/2023 13:06,pU2CcEgOwmo,https://youtu.be/pU2CcEgOwmo,NULL,0
+9a1b1cd1-d5e3-48eb-92bb-0208c47a3b39,9a1b1cd1-d5bb-4eb2-b596-a3ee8b0f1d4f,Multivariate Normal Distribution,9/11/2023 13:06,9/11/2023 13:06,52RwXL4Qe8A,https://youtu.be/52RwXL4Qe8A,NULL,0
+9a1b1cd1-d64e-400c-acec-b4746cdf7359,9a1b1cd1-d626-4812-a87f-9f9bf3a8a885,Teknik CDF,9/11/2023 13:06,9/11/2023 13:06,XNX61tiOxoc,https://youtu.be/XNX61tiOxoc,NULL,0
+9a1b1cd1-d692-4af6-b5f8-04e774e596cc,9a1b1cd1-d626-4812-a87f-9f9bf3a8a885,Contoh Soal [Teknik CDF] Distribution of Functions of Random Variable,9/11/2023 13:06,9/11/2023 13:06,nMk0a2EwFFg,https://youtu.be/nMk0a2EwFFg,NULL,0
+9a1b1cd1-d6fd-4649-9d13-476ab78bc010,9a1b1cd1-d6d6-4683-bc74-0b2cf47abf4c,Teknik Transformasi Univariate,9/11/2023 13:06,9/11/2023 13:06,H3_yQaCfPgQ,https://youtu.be/H3_yQaCfPgQ,NULL,0
+9a1b1cd1-d745-4a4d-a1a3-1a4044fc940e,9a1b1cd1-d6d6-4683-bc74-0b2cf47abf4c,Teknik Transformasi Multivariat,9/11/2023 13:06,9/11/2023 13:06,1BvlUymx2So,https://youtu.be/1BvlUymx2So,NULL,0
+9a1b1cd1-d78d-4887-95cd-63d8d8d9a5bf,9a1b1cd1-d6d6-4683-bc74-0b2cf47abf4c,Contoh Soal [Teknik Transformasi] Distribution of Functions of Random Variable,9/11/2023 13:06,9/11/2023 13:06,LhUzOdVpe0Y,https://youtu.be/LhUzOdVpe0Y,NULL,0
+9a1b1cd1-d7f9-4b4b-9f1f-ed9af02e3cf9,9a1b1cd1-d7d2-41fb-981f-e798c2c48b9c,Teknik MGF,9/11/2023 13:06,9/11/2023 13:06,yzOxmqHH7bo,https://youtu.be/yzOxmqHH7bo,NULL,0
+9a1b1cd1-d841-49e2-b8ec-1ae1abea2c4d,9a1b1cd1-d7d2-41fb-981f-e798c2c48b9c,Contoh Soal [Teknik MGF] Distribution of Functions of Random Variable,9/11/2023 13:06,9/11/2023 13:06,x5f33EuLGwI,https://youtu.be/x5f33EuLGwI,NULL,0
+9a1b1cd1-d8ac-4fcc-889e-b51a8871a939,9a1b1cd1-d885-461e-854f-83cf0567e8b6,Statistics _ Sampling Distribution I,9/11/2023 13:06,9/11/2023 13:06,iv86dbN07HA,https://youtu.be/iv86dbN07HA,NULL,0
+9a1b1cd1-d8f2-4573-8b57-e4999e640c71,9a1b1cd1-d885-461e-854f-83cf0567e8b6,Teorema Sampling Distribution,9/11/2023 13:06,9/11/2023 13:06,x41eLXBmTgE,https://youtu.be/x41eLXBmTgE,NULL,0
+9a1b1cd1-d93a-4127-bdb5-a2b1edf374db,9a1b1cd1-d885-461e-854f-83cf0567e8b6,Contoh Soal Statistics _ Sampling Distribution I,9/11/2023 13:06,9/11/2023 13:06,#NAME?,https://youtu.be/-z_Hw2m9a3c,NULL,0
+9a1b1cd1-d9c5-4146-867c-8762d537caad,9a1b1cd1-d98b-4d4a-84f6-14ae54911bd9,Statistics _ Sampling Distribution II,9/11/2023 13:06,9/11/2023 13:06,2eGrpQD_vnM,https://youtu.be/2eGrpQD_vnM,NULL,0
+9a1b1cd1-da29-45d7-9ee5-19537366da34,9a1b1cd1-d98b-4d4a-84f6-14ae54911bd9,Contoh Soal Statistics _ Sampling Distribution II,9/11/2023 13:06,9/11/2023 13:06,gY8x4HKGqF8,https://youtu.be/gY8x4HKGqF8,NULL,0
+9a1b1cd1-dac0-4e15-936e-7580e2655778,9a1b1cd1-da89-4931-8345-85839105371d,Order Statistics,9/11/2023 13:06,9/11/2023 13:06,mwym2SwwHHo,https://youtu.be/mwym2SwwHHo,NULL,0
+9a1b1cd1-db22-4000-a58c-f1f9c7786898,9a1b1cd1-da89-4931-8345-85839105371d,Contoh Soal Order Statistics,9/11/2023 13:06,9/11/2023 13:06,9L6YMrjqQ98,https://youtu.be/9L6YMrjqQ98,NULL,0
+9a1b1cd1-dbb8-45ae-9d90-4cd558bf1fa1,9a1b1cd1-db82-42da-ba34-4adac5dc7b9f,Teorema Chebyshev,9/11/2023 13:06,9/11/2023 13:06,dvA2EfIE0sY,https://youtu.be/dvA2EfIE0sY,NULL,0
+9a1b1cd1-dc1b-4bc9-a79c-5ab2a0c625c3,9a1b1cd1-db82-42da-ba34-4adac5dc7b9f,Kekonvergenan Dalam Peluang Distribusi,9/11/2023 13:06,9/11/2023 13:06,uEOj0oQIHm4,https://youtu.be/uEOj0oQIHm4,NULL,0
+9a1b1cd1-dc89-42d6-8520-177b412bc29e,9a1b1cd1-db82-42da-ba34-4adac5dc7b9f,Central Limit Theorem,9/11/2023 13:06,9/11/2023 13:06,sfp_7gGpUQA,https://youtu.be/sfp_7gGpUQA,NULL,0
+9a1b1cd1-dce9-4744-b85c-e2b6997a7741,9a1b1cd1-db82-42da-ba34-4adac5dc7b9f,Asymptotic Normal Distribution Law of Large Number,9/11/2023 13:06,9/11/2023 13:06,NnNswGBN9Og,https://youtu.be/NnNswGBN9Og,NULL,0
+9a1b1cd1-dd41-4466-9279-365cf33ff23f,9a1b1cd1-db82-42da-ba34-4adac5dc7b9f,Contoh Soal Aproksimasi untuk Sampel Besar,9/11/2023 13:06,9/11/2023 13:06,Ee7VjIS7FTI,https://youtu.be/Ee7VjIS7FTI,NULL,0
+9a1b1cd1-ddcf-41e9-bebe-b0d682816e4a,9a1b1cd1-dda0-489f-bf15-31c198dd8d11,Pendahuluan,9/11/2023 13:06,9/11/2023 13:06,UThoXERwnIw,https://youtu.be/UThoXERwnIw,NULL,0
+9a1b1cd1-de22-4e5b-a06c-542d12d4a18f,9a1b1cd1-dda0-489f-bf15-31c198dd8d11,Moment,9/11/2023 13:06,9/11/2023 13:06,F8xwSKv5_jo,https://youtu.be/F8xwSKv5_jo,NULL,0
+9a1b1cd1-de73-4bc0-be5a-a6c73195019b,9a1b1cd1-dda0-489f-bf15-31c198dd8d11,Contoh Soal,9/11/2023 13:06,9/11/2023 13:06,8MRRwHTbNbA,https://youtu.be/8MRRwHTbNbA,NULL,0
+9a1b1cd1-dedf-40f6-8d49-4f64e84dd1e0,9a1b1cd1-deb8-4f67-b753-9fa8b6f1e958,Metode Likelihood,9/11/2023 13:06,9/11/2023 13:06,ie7uCSMXLUE,https://youtu.be/ie7uCSMXLUE,NULL,0
+9a1b1cd1-df24-43b0-b227-737f745fd8ab,9a1b1cd1-deb8-4f67-b753-9fa8b6f1e958,Sifat Invarian MLE dan Bayes,9/11/2023 13:06,9/11/2023 13:06,zKE4fOHWh8M,https://youtu.be/zKE4fOHWh8M,NULL,0
+9a1b1cd1-df6a-40b6-8639-6558c957a5c9,9a1b1cd1-deb8-4f67-b753-9fa8b6f1e958,Contoh Soal Metode Likelihood,9/11/2023 13:06,9/11/2023 13:06,kGIGFSB_FrI,https://youtu.be/kGIGFSB_FrI,NULL,0
+9a1b1cd1-dfd4-44cd-9412-c68248e3efb4,9a1b1cd1-dfad-4ef6-9a02-52269ab08445,Unbiased,9/11/2023 13:06,9/11/2023 13:06,FKnd9ANwpdE,https://youtu.be/FKnd9ANwpdE,NULL,0
+9a1b1cd1-e01b-4280-94a5-22fd097095a1,9a1b1cd1-dfad-4ef6-9a02-52269ab08445,Mean Square Error,9/11/2023 13:06,9/11/2023 13:06,4Qsg1d1U7Rc,https://youtu.be/4Qsg1d1U7Rc,NULL,0
+9a1b1cd1-e05f-4640-b946-811f60f8295d,9a1b1cd1-dfad-4ef6-9a02-52269ab08445,Efisien,9/11/2023 13:06,9/11/2023 13:06,e7K-LrLvOhg,https://youtu.be/e7K-LrLvOhg,NULL,0
+9a1b1cd1-e0a6-4ae4-817f-f00a8d2cac3a,9a1b1cd1-dfad-4ef6-9a02-52269ab08445,Contoh Soal Unbiased dan Efisien,9/11/2023 13:06,9/11/2023 13:06,VBDqdfIK7tk,https://youtu.be/VBDqdfIK7tk,NULL,0
+9a1b1cd1-e110-4630-8fe2-ae7cdcac27d5,9a1b1cd1-e0ea-4c45-89db-0651ff020595,Konsisten,9/11/2023 13:06,9/11/2023 13:06,EWYOQ4iqlg4,https://youtu.be/EWYOQ4iqlg4,NULL,0
+9a1b1cd1-e156-41b2-98eb-e6fb6979fe46,9a1b1cd1-e0ea-4c45-89db-0651ff020595,Sufficient Cara I,9/11/2023 13:06,9/11/2023 13:06,OrIk2dYoqpg,https://youtu.be/OrIk2dYoqpg,NULL,0
+9a1b1cd1-e19c-439b-89ab-9d79bc702b3b,9a1b1cd1-e0ea-4c45-89db-0651ff020595,Contoh Soal Konsisten dan Sufficient,9/11/2023 13:06,9/11/2023 13:06,ad-pEelzBRo,https://youtu.be/ad-pEelzBRo,NULL,0
+9a1b1cd1-e204-4d00-abb1-fd7ccf86baca,9a1b1cd1-e1de-40a4-af7b-c82d871292f3,Sufficient cara II,9/11/2023 13:06,9/11/2023 13:06,Sp7ddfE50EM,https://youtu.be/Sp7ddfE50EM,NULL,0
+9a1b1cd1-e248-4191-a5c5-ef73116f13df,9a1b1cd1-e1de-40a4-af7b-c82d871292f3,Kelengkapan,9/11/2023 13:06,9/11/2023 13:06,sKYE5tSzHO4,https://youtu.be/sKYE5tSzHO4,NULL,0
+9a1b1cd1-e28f-4145-afeb-5d7ea4a46e4e,9a1b1cd1-e1de-40a4-af7b-c82d871292f3,Keluarga Eksponensial,9/11/2023 13:06,9/11/2023 13:06,T1ixfVhaI8c,https://youtu.be/T1ixfVhaI8c,NULL,0
+9a1b1cd1-e2d5-40e7-a032-0762a7a49e61,9a1b1cd1-e1de-40a4-af7b-c82d871292f3,Contoh Soal Sufficient Pt 2 dan Completeness,9/11/2023 13:06,9/11/2023 13:06,TmBuxEf0VCQ,https://youtu.be/TmBuxEf0VCQ,NULL,0
+9a1b1cd1-e38f-46c3-99a7-d1e1b6bbb452,9a1b1cd1-e368-4e5a-ad27-881a22ebaf2f,Estimasi Interval,9/11/2023 13:06,9/11/2023 13:06,IQAPXjLUZH8,https://youtu.be/IQAPXjLUZH8,NULL,0
+9a1b1cd1-e3d5-44f3-94c5-10ef15ed9ce1,9a1b1cd1-e368-4e5a-ad27-881a22ebaf2f,Pivotal Quantity Method,9/11/2023 13:06,9/11/2023 13:06,WWdT6D041V0,https://youtu.be/WWdT6D041V0,NULL,0
+9a1b1cd1-e41b-4122-8065-58c3e063b4ce,9a1b1cd1-e368-4e5a-ad27-881a22ebaf2f,Aproksimasi Interval Kepercayaan Untuk Sampel Besar,9/11/2023 13:06,9/11/2023 13:06,ppAK28UNjHk,https://youtu.be/ppAK28UNjHk,NULL,0
+9a1b1cd1-e461-4224-9556-67538d2bd694,9a1b1cd1-e368-4e5a-ad27-881a22ebaf2f,Contoh Soal Estimasi Interval Parametrik,9/11/2023 13:06,9/11/2023 13:06,Htk9uGGnTsw,https://youtu.be/Htk9uGGnTsw,NULL,0
+9a1b1cd1-e4c9-40b1-9c59-d4b435e614c2,9a1b1cd1-e4a3-4afa-87ed-4106a78715a7,Selisih Rata Rata 2 Populasi Normal,9/11/2023 13:06,9/11/2023 13:06,WmRlX1eGOiE,https://youtu.be/WmRlX1eGOiE,NULL,0
+9a1b1cd1-e50e-4c49-bd5e-6d6d0721c022,9a1b1cd1-e4a3-4afa-87ed-4106a78715a7,Selisih Rata Rata 2 Populasi Dependen dan Rasio Varians,9/11/2023 13:06,9/11/2023 13:06,lBYlFrP64cg,https://youtu.be/lBYlFrP64cg,NULL,0
+9a1b1cd1-e554-4152-b0cc-f4a693df4fff,9a1b1cd1-e4a3-4afa-87ed-4106a78715a7,Interval Estimator Untuk Proporsi,9/11/2023 13:06,9/11/2023 13:06,q9lo01wrWis,https://youtu.be/q9lo01wrWis,NULL,0
+9a1b1cd1-e599-4a88-97ef-740ea3391245,9a1b1cd1-e4a3-4afa-87ed-4106a78715a7,Contoh Soal Estimasi Interval Parametrik Lanjutan,9/11/2023 13:06,9/11/2023 13:06,HRFEJJbjgDM,https://youtu.be/HRFEJJbjgDM,NULL,0
+9a1b1cd1-e601-4189-b718-fa1d965738f6,9a1b1cd1-e5da-4d64-93f5-50dd95ba3feb,Pengujian Hipotesis,9/11/2023 13:06,9/11/2023 13:06,ClOy8TGkIIk,https://youtu.be/ClOy8TGkIIk,NULL,0
+9a1b1cd1-e645-4f7b-9ff0-cd6c220cd852,9a1b1cd1-e5da-4d64-93f5-50dd95ba3feb,Kesalahan Dalam Uji Hipotesis,9/11/2023 13:06,9/11/2023 13:06,mo2xaQWLUC8,https://youtu.be/mo2xaQWLUC8,NULL,0
+9a1b1cd1-e689-4f68-b2aa-aae5adbbafe9,9a1b1cd1-e5da-4d64-93f5-50dd95ba3feb,"Fungsi Uji, Fungsi Kuasa, P Value, dan Penentuan Ukuran Sampel",9/11/2023 13:06,9/11/2023 13:06,McNhIXpUE9g,https://youtu.be/McNhIXpUE9g,NULL,0
+9a1b1cd1-e6ce-4956-9f1b-e6bee4828643,9a1b1cd1-e5da-4d64-93f5-50dd95ba3feb,Contoh Soal Pengujian Hipotesis,9/11/2023 13:06,9/11/2023 13:06,whEHmowgsYQ,https://youtu.be/whEHmowgsYQ,NULL,0
+9a1b1cd1-e76b-45da-bb77-d9e3c98ec0c5,9a1b1cd1-e744-4e4b-9f58-d2f2a7b90388,Most Powerful Test,9/11/2023 13:06,9/11/2023 13:06,p_d-g2A1Uak,https://youtu.be/p_d-g2A1Uak,NULL,0
+9a1b1cd1-e7ae-486f-b120-a8685cbb51f8,9a1b1cd1-e744-4e4b-9f58-d2f2a7b90388,Contoh Soal Most Powerful Test,9/11/2023 13:06,9/11/2023 13:06,ocUoOyfPEKY,https://youtu.be/ocUoOyfPEKY,NULL,0
+9a1b1cd1-e815-4851-9632-19e6496fdded,9a1b1cd1-e7f0-4c5f-ba89-eabf5d6e8767,Uniformly Most Powerful Test,9/11/2023 13:06,9/11/2023 13:06,fSvUYijs5E4,https://youtu.be/fSvUYijs5E4,NULL,0
+9a1b1cd1-e859-4068-b40d-8afb092cf318,9a1b1cd1-e7f0-4c5f-ba89-eabf5d6e8767,Contoh Soal Uniformly Most Powerful Test,9/11/2023 13:06,9/11/2023 13:06,UWZiIKTghWc,https://youtu.be/UWZiIKTghWc,NULL,0
+9a1b1cd1-e8c1-4e50-9c9d-99417df4d520,9a1b1cd1-e89b-4156-936c-5d9a0185f23b,Generalized Likelihood Ratio Test,9/11/2023 13:06,9/11/2023 13:06,LvX3-Y5g1b0,https://youtu.be/LvX3-Y5g1b0,NULL,0
+9a1b1cd1-e906-4d86-82d3-df8a7ba62459,9a1b1cd1-e89b-4156-936c-5d9a0185f23b,Contoh Soal Generalized Likelihood Ratio Test,9/11/2023 13:06,9/11/2023 13:06,CPKx8PBzDlk,https://youtu.be/CPKx8PBzDlk,NULL,0
+9a1b1cd1-e96e-4c40-81dc-7b9add887e43,9a1b1cd1-e948-4a7d-860e-7a8d808ce994,Aplikasi Pengujian Hipotesis Distribusi Normal,9/11/2023 13:06,9/11/2023 13:06,jnD5o-Snz_k,https://youtu.be/jnD5o-Snz_k,NULL,0
+9a1b1cd1-e9b2-48af-bb39-5f2da24c4f31,9a1b1cd1-e948-4a7d-860e-7a8d808ce994,Contoh Soal Aplikasi Pengujian Hipotesis Distribusi Normal,9/11/2023 13:06,9/11/2023 13:06,5jaeHYVbFDA,https://youtu.be/5jaeHYVbFDA,NULL,0
+9a1b1cd1-ea1b-42ad-9197-277775147675,9a1b1cd1-e9f6-46b1-b2fa-cfa3b64268a8,Uji Hipotesis Untuk Varians,9/11/2023 13:06,9/11/2023 13:06,xv9x9ssuxIw,https://youtu.be/xv9x9ssuxIw,NULL,0
+9a1b1cd1-ea62-4b6f-b680-59d35ed078ea,9a1b1cd1-e9f6-46b1-b2fa-cfa3b64268a8,Tabel Kontingensi,9/11/2023 13:06,9/11/2023 13:06,2Xb6rD3L0DM,https://youtu.be/2Xb6rD3L0DM,NULL,0
+9a1b1cd1-eaa9-4dcd-9338-862f0e599c25,9a1b1cd1-e9f6-46b1-b2fa-cfa3b64268a8,Contoh Soal Uji Hipotesis Varians dan Tabel Kontingensi,9/11/2023 13:06,9/11/2023 13:06,qMYHmcMF3e0,https://youtu.be/qMYHmcMF3e0,NULL,0
+9a1b1cd1-eb13-4aa9-89b5-d65870a4f0ff,9a1b1cd1-eaed-46af-990f-1ef82a2ea3ae,Uji Independensi dan Goodness Of Fit Test,9/11/2023 13:06,9/11/2023 13:06,yvCRGzSJcD8,https://youtu.be/yvCRGzSJcD8,NULL,0
+9a1b1cd1-eb5a-4d8f-9bfd-075d42600424,9a1b1cd1-eaed-46af-990f-1ef82a2ea3ae,Contoh Soal Uji Independensi dan Goodness of Fit Test,9/11/2023 13:06,9/11/2023 13:06,YdpAJxsA8PA,https://youtu.be/YdpAJxsA8PA,NULL,0
+9a1b1cd1-ebd2-4549-98b7-adfc11adec88,9a1b1cd1-eba9-476b-8158-ceda9815b0df,MATRIKS,9/11/2023 13:06,9/11/2023 13:06,6_8u6KcU46w,https://youtu.be/6_8u6KcU46w,NULL,0
+9a1b1cd1-ec18-4ce6-8452-eb979528dfcc,9a1b1cd1-eba9-476b-8158-ceda9815b0df,JENIS MATRIKS,9/11/2023 13:06,9/11/2023 13:06,4l6oDpveH6M,https://youtu.be/4l6oDpveH6M,NULL,0
+9a1b1cd1-ec5d-45e7-b617-a6feead45371,9a1b1cd1-eba9-476b-8158-ceda9815b0df,OPERASI MATRIKS,9/11/2023 13:06,9/11/2023 13:06,jpAOu1hOLbQ,https://youtu.be/jpAOu1hOLbQ,NULL,0
+9a1b1cd1-eca1-4815-9acf-ac46e35f37e3,9a1b1cd1-eba9-476b-8158-ceda9815b0df,MATRIKS SOAL,9/11/2023 13:06,9/11/2023 13:06,iO42SHPSfns,https://youtu.be/iO42SHPSfns,NULL,0
+9a1b1cd1-ed09-4230-92c7-55e1343c26b8,9a1b1cd1-ece4-468d-9116-e526ddd85370,DETERMINAN MATRIKS,9/11/2023 13:06,9/11/2023 13:06,kgyseNWml3o,https://youtu.be/kgyseNWml3o,NULL,0
+9a1b1cd1-ed4e-49f0-8059-7ad2774bcfe4,9a1b1cd1-ece4-468d-9116-e526ddd85370,PERMUTASI,9/11/2023 13:06,9/11/2023 13:06,99ISEpIIpBI,https://youtu.be/99ISEpIIpBI,NULL,0
+9a1b1cd1-ed91-4068-a013-dd2e91a1e759,9a1b1cd1-ece4-468d-9116-e526ddd85370,HASIL KALI ELEMENTER,9/11/2023 13:06,9/11/2023 13:06,SP0eRvR32QA,https://youtu.be/SP0eRvR32QA,NULL,0
+9a1b1cd1-edd7-4745-9258-0b936f9e07c9,9a1b1cd1-ece4-468d-9116-e526ddd85370,KOFAKTOR,9/11/2023 13:06,9/11/2023 13:06,waU2MGe93Jo,https://youtu.be/waU2MGe93Jo,NULL,0
+9a1b1cd1-ee1d-4ad4-a718-16d52b9d2cf9,9a1b1cd1-ece4-468d-9116-e526ddd85370,REDUKSI BARIS,9/11/2023 13:06,9/11/2023 13:06,xxnHtne8sEw,https://youtu.be/xxnHtne8sEw,NULL,0
+9a1b1cd1-ee61-4c8f-ad42-fdef6da87531,9a1b1cd1-ece4-468d-9116-e526ddd85370,SIFAT,9/11/2023 13:06,9/11/2023 13:06,4frdNyQAuCY,https://youtu.be/4frdNyQAuCY,NULL,0
+9a1b1cd1-eea6-4e02-8ae2-a1aca28c82f5,9a1b1cd1-ece4-468d-9116-e526ddd85370,SOAL Determinan,9/11/2023 13:06,9/11/2023 13:06,C4m7moJgRN4,https://youtu.be/C4m7moJgRN4,NULL,0
+9a1b1cd1-ef10-45c4-aca7-e26009e973d7,9a1b1cd1-eee9-4051-857c-e94f22c4a236,Invers,9/11/2023 13:06,9/11/2023 13:06,lJqaUei_Zz0,https://youtu.be/lJqaUei_Zz0,NULL,0
+9a1b1cd1-ef55-4723-be44-515e3214328c,9a1b1cd1-eee9-4051-857c-e94f22c4a236,ADJOINT,9/11/2023 13:06,9/11/2023 13:06,r3dtq4pNPWU,https://youtu.be/r3dtq4pNPWU,NULL,0
+9a1b1cd1-ef9a-4b52-b395-ecba2090e09a,9a1b1cd1-eee9-4051-857c-e94f22c4a236,REDUKSI BARIS,9/11/2023 13:06,9/11/2023 13:06,rO7tf1C0LKI,https://youtu.be/rO7tf1C0LKI,NULL,0
+9a1b1cd1-efdf-4b7e-844f-90f41b9f1326,9a1b1cd1-eee9-4051-857c-e94f22c4a236,SOAL Invers,9/11/2023 13:06,9/11/2023 13:06,SsmEOEnpCSs,https://youtu.be/SsmEOEnpCSs,NULL,0
+9a1b1cd1-f048-4ccc-9c47-5e500881d969,9a1b1cd1-f022-4963-8d7b-71726f6e4a7b,SPL,9/11/2023 13:06,9/11/2023 13:06,bMZRex_ExvY,https://youtu.be/bMZRex_ExvY,NULL,0
+9a1b1cd1-f08e-492f-b0d4-6afe8385866e,9a1b1cd1-f022-4963-8d7b-71726f6e4a7b,ELIMINASI DAN SUBTITUSI,9/11/2023 13:06,9/11/2023 13:06,LnaADmjjTng,https://youtu.be/LnaADmjjTng,NULL,0
+9a1b1cd1-f0d3-417a-a1e6-657656493007,9a1b1cd1-f022-4963-8d7b-71726f6e4a7b,SPL HOMOGEN,9/11/2023 13:06,9/11/2023 13:06,r8W0VIQ6I8I,https://youtu.be/r8W0VIQ6I8I,NULL,0
+9a1b1cd1-f118-4d3e-829d-b1bc06ad6483,9a1b1cd1-f022-4963-8d7b-71726f6e4a7b,AUGMENTED MATRIKS,9/11/2023 13:06,9/11/2023 13:06,dNFqKnHrwSw,https://youtu.be/dNFqKnHrwSw,NULL,0
+9a1b1cd1-f15d-4b4e-a213-ad85b2ae045c,9a1b1cd1-f022-4963-8d7b-71726f6e4a7b,OBE,9/11/2023 13:06,9/11/2023 13:06,nAdS9gFhmjQ,https://youtu.be/nAdS9gFhmjQ,NULL,0
+9a1b1cd1-f1a1-4200-9fb8-d994d9bd8ac9,9a1b1cd1-f022-4963-8d7b-71726f6e4a7b,GAUSS JORDAN,9/11/2023 13:06,9/11/2023 13:06,dDofWHdJVRQ,https://youtu.be/dDofWHdJVRQ,NULL,0
+9a1b1cd1-f1e4-4a4e-90f3-9fafbc3fecf8,9a1b1cd1-f022-4963-8d7b-71726f6e4a7b,METODE INVERS,9/11/2023 13:06,9/11/2023 13:06,nX4ZI8ON0ok,https://youtu.be/nX4ZI8ON0ok,NULL,0
+9a1b1cd1-f22b-4d89-91fb-8893936e9631,9a1b1cd1-f022-4963-8d7b-71726f6e4a7b,SOAL 1 SPL,9/11/2023 13:06,9/11/2023 13:06,C2kZxI1GVJc,https://youtu.be/C2kZxI1GVJc,NULL,0
+9a1b1cd1-f26f-4cf2-bb3a-ce3007ed0e1f,9a1b1cd1-f022-4963-8d7b-71726f6e4a7b,SOAL 2 SPL,9/11/2023 13:06,9/11/2023 13:06,LjGTDUENI_Y,https://youtu.be/LjGTDUENI_Y,NULL,0
+9a1b1cd1-f2d9-4f98-9c4c-b299e1cfcd64,9a1b1cd1-f2b2-4112-8920-eaeec65566eb,VEKTOR,9/11/2023 13:06,9/11/2023 13:06,osK2cw8T8OU,https://youtu.be/osK2cw8T8OU,NULL,0
+9a1b1cd1-f31c-4063-a03f-4d47ef6bc1fa,9a1b1cd1-f2b2-4112-8920-eaeec65566eb,OPERASI,9/11/2023 13:06,9/11/2023 13:06,JKkLqHfCdpw,https://youtu.be/JKkLqHfCdpw,NULL,0
+9a1b1cd1-f361-4a45-ac9c-83c47431c275,9a1b1cd1-f2b2-4112-8920-eaeec65566eb,NORM,9/11/2023 13:06,9/11/2023 13:06,xH4-CUoCJNI,https://youtu.be/xH4-CUoCJNI,NULL,0
+9a1b1cd1-f3ab-4a44-bf4f-0481a7ddb625,9a1b1cd1-f2b2-4112-8920-eaeec65566eb,PERKALIAN DOT,9/11/2023 13:06,9/11/2023 13:06,qBf7Zw4d2sQ,https://youtu.be/qBf7Zw4d2sQ,NULL,0
+9a1b1cd1-f410-444d-8f12-4ad3393370bc,9a1b1cd1-f2b2-4112-8920-eaeec65566eb,PROYEKSI ORTOGONAL,9/11/2023 13:06,9/11/2023 13:06,NhncBLdayS0,https://youtu.be/NhncBLdayS0,NULL,0
+9a1b1cd1-f46c-4713-b98f-237c1b372438,9a1b1cd1-f2b2-4112-8920-eaeec65566eb,PERKALIAN SILANG,9/11/2023 13:06,9/11/2023 13:06,BKIdCATF22Q,https://youtu.be/BKIdCATF22Q,NULL,0
+9a1b1cd1-f4bf-4a59-957b-e630e3141d09,9a1b1cd1-f2b2-4112-8920-eaeec65566eb,HUBUNGAN CROSS PRODUCT DAN DOT PRODUCT,9/11/2023 13:06,9/11/2023 13:06,hELMpnTMeKE,https://youtu.be/hELMpnTMeKE,NULL,0
+9a1b1cd1-f510-434e-a956-72f6baf25dfa,9a1b1cd1-f2b2-4112-8920-eaeec65566eb,VEKTOR SATUAN,9/11/2023 13:06,9/11/2023 13:06,puaQkvuodPI,https://youtu.be/puaQkvuodPI,NULL,0
+9a1b1cd1-f638-4abd-9fa7-ff3d40c092c4,9a1b1cd1-f2b2-4112-8920-eaeec65566eb,SOAL Vektor,9/11/2023 13:06,9/11/2023 13:06,-2LLXz3nBZU,https://youtu.be/-2LLXz3nBZU,NULL,0
+9a1b1cd1-f6c3-4067-afb3-8f3b51b1b3e7,9a1b1cd1-f692-4570-8a2f-eab9523b8670,RUANG DAN SUBRUANG VEKTOR,9/11/2023 13:06,9/11/2023 13:06,ZitGQGOpkg4,https://youtu.be/ZitGQGOpkg4,NULL,0
+9a1b1cd1-f716-4326-840c-b38ec737a78f,9a1b1cd1-f692-4570-8a2f-eab9523b8670,KOMBINASI LINIER,9/11/2023 13:06,9/11/2023 13:06,bFnc32_4OSM,https://youtu.be/bFnc32_4OSM,NULL,0
+9a1b1cd1-f76c-4374-9c50-66200098b733,9a1b1cd1-f692-4570-8a2f-eab9523b8670,RENTANG,9/11/2023 13:06,9/11/2023 13:06,hKVsT4A2c0A,https://youtu.be/hKVsT4A2c0A,NULL,0
+9a1b1cd1-f7bf-47de-beac-a3cb2c110213,9a1b1cd1-f692-4570-8a2f-eab9523b8670,KEBEBASAN LINIER,9/11/2023 13:06,9/11/2023 13:06,lOOPyOeZFuY,https://youtu.be/lOOPyOeZFuY,NULL,0
+9a1b1cd1-f813-44a7-b03b-3f6e5c0c5933,9a1b1cd1-f692-4570-8a2f-eab9523b8670,BASIS,9/11/2023 13:06,9/11/2023 13:06,1HGOb1g8rxQ,https://youtu.be/1HGOb1g8rxQ,NULL,0
+9a1b1cd1-f865-4b35-894a-340c6d9086b0,9a1b1cd1-f692-4570-8a2f-eab9523b8670,DIMENSI,9/11/2023 13:06,9/11/2023 13:06,KmIcZ_qs4hY,https://youtu.be/KmIcZ_qs4hY,NULL,0
+9a1b1cd1-f8b7-41c8-96a6-ded7c4ac1535,9a1b1cd1-f692-4570-8a2f-eab9523b8670,SOAL Ruang Vektor I,9/11/2023 13:06,9/11/2023 13:06,ytG0DtaFIdI,https://youtu.be/ytG0DtaFIdI,NULL,0
+9a1b1cd1-f932-45bf-9ed0-5356313c2dcb,9a1b1cd1-f907-4325-b094-ca3bcd4304a3,VEKTOR BARIS DAN VEKTOR KOLOM,9/11/2023 13:06,9/11/2023 13:06,Zr_-uY6Zxv0,https://youtu.be/Zr_-uY6Zxv0,NULL,0
+9a1b1cd1-f984-4dd3-b3e3-bb48e64f3a67,9a1b1cd1-f907-4325-b094-ca3bcd4304a3,"RUANG BARIS, RUANG KOLOM, RUANG KOSONG",9/11/2023 13:06,9/11/2023 13:06,UQS_4fhNbtw,https://youtu.be/UQS_4fhNbtw,NULL,0
+9a1b1cd1-f9d7-4571-b4c0-a3e1cf1603d3,9a1b1cd1-f907-4325-b094-ca3bcd4304a3,HUBUNGAN PENYELESAIAN,9/11/2023 13:06,9/11/2023 13:06,TCVyNVBCJ0g,https://youtu.be/TCVyNVBCJ0g,NULL,0
+9a1b1cd1-fa2a-46ca-a9e1-641ad3154809,9a1b1cd1-f907-4325-b094-ca3bcd4304a3,BASIS RUANG,9/11/2023 13:06,9/11/2023 13:06,nxlRJ6YvtRs,https://youtu.be/nxlRJ6YvtRs,NULL,0
+9a1b1cd1-fa7b-4ff2-90bb-f8787445562a,9a1b1cd1-f907-4325-b094-ca3bcd4304a3,PERINGKAT DAN KEKOSONGAN,9/11/2023 13:06,9/11/2023 13:06,KQy53g4NhDc,https://youtu.be/KQy53g4NhDc,NULL,0
+9a1b1cd1-facd-49c3-b371-37baf0ad3901,9a1b1cd1-f907-4325-b094-ca3bcd4304a3,SOAL Ruang Vektor II,9/11/2023 13:06,9/11/2023 13:06,SF8RasTJ5PE,https://youtu.be/SF8RasTJ5PE,NULL,0
+9a1b1cd1-fb48-42a1-af28-d19c9fe750ef,9a1b1cd1-fb1c-4656-9634-e1218ad85e97,DEFINISI,9/11/2023 13:06,9/11/2023 13:06,MshEPcN4uGA,https://youtu.be/MshEPcN4uGA,NULL,0
+9a1b1cd1-fb9b-4f68-a267-0340fb5bf4ee,9a1b1cd1-fb1c-4656-9634-e1218ad85e97,TEOREMA,9/11/2023 13:06,9/11/2023 13:06,sVFAm2GcpUY,https://youtu.be/sVFAm2GcpUY,NULL,0
+9a1b1cd1-fbed-4c11-8a66-87d6957f44f1,9a1b1cd1-fb1c-4656-9634-e1218ad85e97,MATRIKS ORTOGONAL,9/11/2023 13:06,9/11/2023 13:06,azAt323reTQ,https://youtu.be/azAt323reTQ,NULL,0
+9a1b1cd1-fc3e-4059-994e-bab49735e9c2,9a1b1cd1-fb1c-4656-9634-e1218ad85e97,TEOREMA,9/11/2023 13:06,9/11/2023 13:06,bAm0yIH3dz4,https://youtu.be/bAm0yIH3dz4,NULL,0
+9a1b1cd1-fc8f-4a23-af53-c17a7aea2ff4,9a1b1cd1-fb1c-4656-9634-e1218ad85e97,GRAM SCHMIDT,9/11/2023 13:06,9/11/2023 13:06,sgLoU41Fzqk,https://youtu.be/sgLoU41Fzqk,NULL,0
+9a1b1cd1-fcdf-432c-abb9-1e9d35a4597b,9a1b1cd1-fb1c-4656-9634-e1218ad85e97,SOAL Ortogonal,9/11/2023 13:06,9/11/2023 13:06,mtd0u_U_1AI,https://youtu.be/mtd0u_U_1AI,NULL,0
+9a1b1cd1-fd5c-48de-b756-4efef18f814a,9a1b1cd1-fd2f-4af8-bc2a-60fa749916c9,DEFINISI,9/11/2023 13:06,9/11/2023 13:06,aIlCVW2HlYE,https://youtu.be/aIlCVW2HlYE,NULL,0
+9a1b1cd1-fdaf-4853-ae2b-727809d99907,9a1b1cd1-fd2f-4af8-bc2a-60fa749916c9,PERSAMAAN KARAKTERISTIK,9/11/2023 13:06,9/11/2023 13:06,PtsGl9RJnic,https://youtu.be/PtsGl9RJnic,NULL,0
+9a1b1cd1-fe01-4e19-8840-72d0802e6f7b,9a1b1cd1-fd2f-4af8-bc2a-60fa749916c9,RUANG EIGEN,9/11/2023 13:06,9/11/2023 13:06,gr8BiXvQAbU,https://youtu.be/gr8BiXvQAbU,NULL,0
+9a1b1cd1-fe54-4d4f-a342-1975304dd85e,9a1b1cd1-fd2f-4af8-bc2a-60fa749916c9,NILAI EIGEN TEOREMA,9/11/2023 13:06,9/11/2023 13:06,t9ci3IbE5UA,https://youtu.be/t9ci3IbE5UA,NULL,0
+9a1b1cd1-fea6-4e93-8366-4036d8fadf70,9a1b1cd1-fd2f-4af8-bc2a-60fa749916c9,DIAGONALISASI,9/11/2023 13:06,9/11/2023 13:06,jWvE5bzxTug,https://youtu.be/jWvE5bzxTug,NULL,0
+9a1b1cd1-fef8-4746-a2b7-1e7ae3f756d5,9a1b1cd1-fd2f-4af8-bc2a-60fa749916c9,DIAGONALISASI ORTOGONAL,9/11/2023 13:06,9/11/2023 13:06,erucbldTGeA,https://youtu.be/erucbldTGeA,NULL,0
+9a1b1cd1-ff48-42e3-ab95-aa570ce8cb7a,9a1b1cd1-fd2f-4af8-bc2a-60fa749916c9,SOAL 1 Eigen,9/11/2023 13:06,9/11/2023 13:06,agbovRiJhGo,https://youtu.be/agbovRiJhGo,NULL,0
+9a1b1cd1-ff98-4f2f-9bef-a66009eeb557,9a1b1cd1-fd2f-4af8-bc2a-60fa749916c9,SOAL 2 Eigen,9/11/2023 13:06,9/11/2023 13:06,IY41Cv-JK_4,https://youtu.be/IY41Cv-JK_4,NULL,0
+9a1b1cd2-0014-4c69-a2d3-cfd0e6f6c736,9a1b1cd1-ffe7-48bc-b888-e689582ed229,BENTUK BILINEAR,9/11/2023 13:06,9/11/2023 13:06,booanLy47mc,https://youtu.be/booanLy47mc,NULL,0
+9a1b1cd2-0065-41e0-af37-fe3af823d6db,9a1b1cd1-ffe7-48bc-b888-e689582ed229,BENTUK KANONIK,9/11/2023 13:06,9/11/2023 13:06,_u1BLuIBVjk,https://youtu.be/_u1BLuIBVjk,NULL,0
+9a1b1cd2-00b6-49e2-9272-bcc9762893f9,9a1b1cd1-ffe7-48bc-b888-e689582ed229,BENTUK KUADRAT 1,9/11/2023 13:06,9/11/2023 13:06,VKYzJpiyg2Y,https://youtu.be/VKYzJpiyg2Y,NULL,0
+9a1b1cd2-0108-4254-b1b0-4d195954d7a2,9a1b1cd1-ffe7-48bc-b888-e689582ed229,BENTUK KUADRAT 2,9/11/2023 13:06,9/11/2023 13:06,Y43TEFS2bls,https://youtu.be/Y43TEFS2bls,NULL,0
+9a1b1cd2-0159-4f3c-b3aa-36ae54da5067,9a1b1cd1-ffe7-48bc-b888-e689582ed229,SOAL Kuadratik dan Bilinear,9/11/2023 13:06,9/11/2023 13:06,GXQWBMc92dE,https://youtu.be/GXQWBMc92dE,NULL,0
+9a1b1cd2-01d4-4e7c-895b-a486a55c746c,9a1b1cd2-01a8-475d-97c4-c1b4919470d6,DEFINISI DAN TEOREMA,9/11/2023 13:06,9/11/2023 13:06,x8uyIyxGnh0,https://youtu.be/x8uyIyxGnh0,NULL,0
+9a1b1cd2-0226-48ea-8810-ccc13efeb25c,9a1b1cd2-01a8-475d-97c4-c1b4919470d6,HERMIT 1,9/11/2023 13:06,9/11/2023 13:06,2H0Aj7atY_4,https://youtu.be/2H0Aj7atY_4,NULL,0
+9a1b1cd2-0278-48d7-b44b-02420d1ccea2,9a1b1cd2-01a8-475d-97c4-c1b4919470d6,HERMIT 2,9/11/2023 13:06,9/11/2023 13:06,hhGQle92qS4,https://youtu.be/hhGQle92qS4,NULL,0
+9a1b1cd2-02ca-43dd-bea2-be9269841aad,9a1b1cd2-01a8-475d-97c4-c1b4919470d6,SOAL Conditional Invers dan Hermit,9/11/2023 13:06,9/11/2023 13:06,5G0SKLM6hT4,https://youtu.be/5G0SKLM6hT4,NULL,0
+9a1b1cd2-0358-4877-962c-581cc6fa6cd0,9a1b1cd2-032c-417d-9f91-c274452a8e61,Reading Section Part I,9/11/2023 13:06,9/11/2023 13:06,skJT4IMC-y8,https://youtu.be/skJT4IMC-y8,NULL,0
+9a1b1cd2-03ac-4be8-b055-631f611b3b37,9a1b1cd2-032c-417d-9f91-c274452a8e61,Reading Section Part II,9/11/2023 13:06,9/11/2023 13:06,Lpl5H96IRsw,https://youtu.be/Lpl5H96IRsw,NULL,0
+9a1b1cd2-03fd-465e-bd45-8c5f7ed70507,9a1b1cd2-032c-417d-9f91-c274452a8e61,Reading Section Part III,9/11/2023 13:06,9/11/2023 13:06,FxBg9srmx4I,https://youtu.be/FxBg9srmx4I,NULL,0
+9a1b1cd2-044d-48cb-b383-aa0e2fca218d,9a1b1cd2-032c-417d-9f91-c274452a8e61,Reading Section Part IV,9/11/2023 13:06,9/11/2023 13:06,CFMqK4of0VY,https://youtu.be/CFMqK4of0VY,NULL,0
+9a1b1cd2-04a3-4ac4-835f-2c961ee2a19c,9a1b1cd2-032c-417d-9f91-c274452a8e61,Reading Section Part V,9/11/2023 13:06,9/11/2023 13:06,xT3BUsygw0U,https://youtu.be/xT3BUsygw0U,NULL,0
+9a1b1cd2-051e-45c5-85de-9110ed4259b7,9a1b1cd2-04f2-4bf0-ae7d-2c79006d3955,Speaking Section Part I,9/11/2023 13:06,9/11/2023 13:06,iV4fnuLAqBo,https://youtu.be/iV4fnuLAqBo,NULL,0
+9a1b1cd2-059a-4c68-95b1-16bff6f019e5,9a1b1cd2-056e-4b59-9110-d52c28a3e86f,Writing Section Part I,9/11/2023 13:06,9/11/2023 13:06,XogAn58QB4s,https://youtu.be/XogAn58QB4s,NULL,0
+9a1b1cd2-05eb-4d6b-aafb-6be78bc832c6,9a1b1cd2-056e-4b59-9110-d52c28a3e86f,Writing Section Part II,9/11/2023 13:06,9/11/2023 13:06,sNt88W0da24,https://youtu.be/sNt88W0da24,NULL,0
+9a1b1cd2-0696-4216-bd38-c992382af225,9a1b1cd2-056e-4b59-9110-d52c28a3e86f,Writing Section Part III,9/11/2023 13:06,9/11/2023 13:06,cIvLH2SDmjo,https://youtu.be/cIvLH2SDmjo,NULL,0
+9a1b1cd2-0724-4acb-b332-7b65845c7df1,9a1b1cd2-06f5-4ad5-b38f-e99e5da2ef28,Pengertian Algoritma dan Algoritma yang baik,9/11/2023 13:06,9/11/2023 13:06,1ju57S6NMgs,https://youtu.be/1ju57S6NMgs,NULL,0
+9a1b1cd2-077b-4ac0-b6ec-755a4c9bea6a,9a1b1cd2-06f5-4ad5-b38f-e99e5da2ef28,Struktur Algoritma,9/11/2023 13:06,9/11/2023 13:06,ByFpR93lDjU,https://youtu.be/ByFpR93lDjU,NULL,0
+9a1b1cd2-0804-4b55-8351-dce1d88b40f6,9a1b1cd2-06f5-4ad5-b38f-e99e5da2ef28,Membuat algoritma,9/11/2023 13:06,9/11/2023 13:06,7I1zFKECdvo,https://youtu.be/7I1zFKECdvo,NULL,0
+9a1b1cd2-0856-48b8-8339-f9214ebda3ce,9a1b1cd2-06f5-4ad5-b38f-e99e5da2ef28,Penyajian Algoritma 1,9/11/2023 13:06,9/11/2023 13:06,_kQ5BDahaoY,https://youtu.be/_kQ5BDahaoY,NULL,0
+9a1b1cd2-08a7-4564-bfe3-99a5b3ce031c,9a1b1cd2-06f5-4ad5-b38f-e99e5da2ef28,Penyajian Algoritma 2,9/11/2023 13:06,9/11/2023 13:06,WDh0l1FhlXw,https://youtu.be/WDh0l1FhlXw,NULL,0
+9a1b1cd2-08f9-4627-9b25-9e078a68a1a4,9a1b1cd2-06f5-4ad5-b38f-e99e5da2ef28,Program dan pemrograman,9/11/2023 13:06,9/11/2023 13:06,WKtsanPtg6w,https://youtu.be/WKtsanPtg6w,NULL,0
+9a1b1cd2-094a-4fda-8190-57e0341d64d8,9a1b1cd2-06f5-4ad5-b38f-e99e5da2ef28,"Compiler, Text Editor IDE",9/11/2023 13:06,9/11/2023 13:06,9PFulsb1HPg,https://youtu.be/9PFulsb1HPg,NULL,0
+9a1b1cd2-099c-4a19-b913-463e210aa4aa,9a1b1cd2-06f5-4ad5-b38f-e99e5da2ef28,Download dan Install FPC Compiler Pacal Online,9/11/2023 13:06,9/11/2023 13:06,v2RpnS1y0Cg,https://youtu.be/v2RpnS1y0Cg,NULL,0
+9a1b1cd2-0a17-489a-9133-0a6002294f1b,9a1b1cd2-09eb-40ae-9152-f01bdcc70176,"Struktur bahasa pascal  penulisan, elemen elemen, dan identifier",9/11/2023 13:06,9/11/2023 13:06,4XYZuEQtx0o,https://youtu.be/4XYZuEQtx0o,NULL,0
+9a1b1cd2-0a69-454a-bd3f-b1620986a94a,9a1b1cd2-09eb-40ae-9152-f01bdcc70176,Tipe data pascal,9/11/2023 13:06,9/11/2023 13:06,5uppE2Nom3o,https://youtu.be/5uppE2Nom3o,NULL,0
+9a1b1cd2-0aba-4c7d-be6b-d48af2899902,9a1b1cd2-09eb-40ae-9152-f01bdcc70176,Operasi 1,9/11/2023 13:06,9/11/2023 13:06,617qWVIMrec,https://youtu.be/617qWVIMrec,NULL,0
+9a1b1cd2-0b0d-4a4f-b90d-3ff3dffc7883,9a1b1cd2-09eb-40ae-9152-f01bdcc70176,Operasi 2 dan Komentar,9/11/2023 13:06,9/11/2023 13:06,h6NEfreUHhE,https://youtu.be/h6NEfreUHhE,NULL,0
+9a1b1cd2-0b5f-446b-b06e-c27efd6179b8,9a1b1cd2-09eb-40ae-9152-f01bdcc70176,Praktik deklarasi variabel,9/11/2023 13:06,9/11/2023 13:06,m-eQ1x3gDn4,https://youtu.be/m-eQ1x3gDn4,NULL,0
+9a1b1cd2-0baf-4989-8280-8b8c76b54396,9a1b1cd2-09eb-40ae-9152-f01bdcc70176,Praktik Write dan Writeln,9/11/2023 13:06,9/11/2023 13:06,US2UVdixRu4,https://youtu.be/US2UVdixRu4,NULL,0
+9a1b1cd2-0c00-4fc0-8798-28f8d1f6a8b9,9a1b1cd2-09eb-40ae-9152-f01bdcc70176,Praktik Operasi Aritmatika dan Boolean,9/11/2023 13:06,9/11/2023 13:06,Cz-ZveEcF-A,https://youtu.be/Cz-ZveEcF-A,NULL,0
+9a1b1cd2-0c52-4962-88f8-5d12f7f70e98,9a1b1cd2-09eb-40ae-9152-f01bdcc70176,Latihan pengenalan bahasa pemograman pascal,9/11/2023 13:06,9/11/2023 13:06,7JbsHS_vY00,https://youtu.be/7JbsHS_vY00,NULL,0
+9a1b1cd2-0ca6-4f3c-803c-6748345afc71,9a1b1cd2-09eb-40ae-9152-f01bdcc70176,Pembahasan latihan pengenalan bahasa pemograman pascal,9/11/2023 13:06,9/11/2023 13:06,Ky2YQVfMVoU,https://youtu.be/Ky2YQVfMVoU,NULL,0
+9a1b1cd2-0d22-44cd-bdb7-4cdd7bfc8323,9a1b1cd2-0cf6-4de3-b31b-9acb5262a06f,Mengapa memilih,9/11/2023 13:06,9/11/2023 13:06,Thtobo5GziU,https://youtu.be/Thtobo5GziU,NULL,0
+9a1b1cd2-0d73-4a50-a135-a4414799c4f9,9a1b1cd2-0cf6-4de3-b31b-9acb5262a06f,Pemilihan,9/11/2023 13:06,9/11/2023 13:06,g_bITrUm3po,https://youtu.be/g_bITrUm3po,NULL,0
+9a1b1cd2-0dc5-47a9-a194-cb0fe7d296e7,9a1b1cd2-0cf6-4de3-b31b-9acb5262a06f,Struktur Pemilihan,9/11/2023 13:06,9/11/2023 13:06,mDGv8md0iHU,https://youtu.be/mDGv8md0iHU,NULL,0
+9a1b1cd2-0e17-4128-93c9-4a42e24ae869,9a1b1cd2-0cf6-4de3-b31b-9acb5262a06f,if then dan if then else,9/11/2023 13:06,9/11/2023 13:06,nWBHTTTnjig,https://youtu.be/nWBHTTTnjig,NULL,0
+9a1b1cd2-0e7f-47b7-8a9e-abae3314f29b,9a1b1cd2-0cf6-4de3-b31b-9acb5262a06f,if berjenjang dan if bersarang,9/11/2023 13:06,9/11/2023 13:06,VIskufnDqLc,https://youtu.be/VIskufnDqLc,NULL,0
+9a1b1cd2-0ed9-4f02-93e7-ee433da1f970,9a1b1cd2-0cf6-4de3-b31b-9acb5262a06f,Praktik pemilihan,9/11/2023 13:06,9/11/2023 13:06,jgNYJI30FiA,https://youtu.be/jgNYJI30FiA,NULL,0
+9a1b1cd2-0f2d-44b9-99e6-0ad0420c9108,9a1b1cd2-0cf6-4de3-b31b-9acb5262a06f,latihan pemilihan bagian 1,9/11/2023 13:06,9/11/2023 13:06,sbmrRS3IEKE,https://youtu.be/sbmrRS3IEKE,NULL,0
+9a1b1cd2-0f7f-4ff2-9ae2-5f002b0befcd,9a1b1cd2-0cf6-4de3-b31b-9acb5262a06f,pembahasan latihan pemilihan bagian 1,9/11/2023 13:06,9/11/2023 13:06,xNmR3iUo8dI,https://youtu.be/xNmR3iUo8dI,NULL,0
+9a1b1cd2-0ffc-4b68-92a6-5ce7ff87c138,9a1b1cd2-0fd0-4f44-809a-984325119894,Mengapa memilih 2,9/11/2023 13:06,9/11/2023 13:06,PnXik4hkymE,https://youtu.be/PnXik4hkymE,NULL,0
+9a1b1cd2-1052-4fe2-b337-505c7529b60c,9a1b1cd2-0fd0-4f44-809a-984325119894,Case of dan Case of else,9/11/2023 13:06,9/11/2023 13:06,#NAME?,https://youtu.be/-J51IjpoEYU,NULL,0
+9a1b1cd2-10a5-44bb-a444-ab1bd6e860bb,9a1b1cd2-0fd0-4f44-809a-984325119894,Label dan goto,9/11/2023 13:06,9/11/2023 13:06,icCRXacsjeI,https://youtu.be/icCRXacsjeI,NULL,0
+9a1b1cd2-10f6-4bb2-a637-4aa541d85439,9a1b1cd2-0fd0-4f44-809a-984325119894,Praktik Pemilihan 2 dan Goto,9/11/2023 13:06,9/11/2023 13:06,NVBjgCUS-Jo,https://youtu.be/NVBjgCUS-Jo,NULL,0
+9a1b1cd2-1148-4def-b801-46cf45d41b8d,9a1b1cd2-0fd0-4f44-809a-984325119894,Latihan pemilihan bagian 2,9/11/2023 13:06,9/11/2023 13:06,RFvoJWBWGRA,https://youtu.be/RFvoJWBWGRA,NULL,0
+9a1b1cd2-119a-49ff-9055-b663690c6ba7,9a1b1cd2-0fd0-4f44-809a-984325119894,Pembahasan latihan pemilihan bagian 2,9/11/2023 13:06,9/11/2023 13:06,6kgtyNKKtXU,https://youtu.be/6kgtyNKKtXU,NULL,0
+9a1b1cd2-1216-42b8-80b1-64868b86a54a,9a1b1cd2-11e9-4ad3-9688-03dd5e1dacad,Perlukah mengulang,9/11/2023 13:06,9/11/2023 13:06,R3KqHWGzuR8,https://youtu.be/R3KqHWGzuR8,NULL,0
+9a1b1cd2-1269-43b2-ba1d-c812b904377e,9a1b1cd2-11e9-4ad3-9688-03dd5e1dacad,Perulangan,9/11/2023 13:06,9/11/2023 13:06,6ez-V0R-SS0,https://youtu.be/6ez-V0R-SS0,NULL,0
+9a1b1cd2-12ba-464e-a458-2b5644e013d8,9a1b1cd2-11e9-4ad3-9688-03dd5e1dacad,While do,9/11/2023 13:06,9/11/2023 13:06,wo2bxvu5N5k,https://youtu.be/wo2bxvu5N5k,NULL,0
+9a1b1cd2-130d-4599-815d-9ecd3e386751,9a1b1cd2-11e9-4ad3-9688-03dd5e1dacad,Repeat Until,9/11/2023 13:06,9/11/2023 13:06,KZYKKYJXnvQ,https://youtu.be/KZYKKYJXnvQ,NULL,0
+9a1b1cd2-1360-494d-bc0d-9ab79db3b31f,9a1b1cd2-11e9-4ad3-9688-03dd5e1dacad,While vs Repeat,9/11/2023 13:06,9/11/2023 13:06,BJLdVqJu-Pg,https://youtu.be/BJLdVqJu-Pg,NULL,0
+9a1b1cd2-13b2-4b19-a0aa-9c72a41173d8,9a1b1cd2-11e9-4ad3-9688-03dd5e1dacad,Praktik While dan Repeat,9/11/2023 13:06,9/11/2023 13:06,oSJ2lYcWNLc,https://youtu.be/oSJ2lYcWNLc,NULL,0
+9a1b1cd2-1403-4fc7-9478-12ea0f1d983c,9a1b1cd2-11e9-4ad3-9688-03dd5e1dacad,Latihan perulangan bagian 1,9/11/2023 13:06,9/11/2023 13:06,gk6emWibft8,https://youtu.be/gk6emWibft8,NULL,0
+9a1b1cd2-1455-427c-91de-f19740802084,9a1b1cd2-11e9-4ad3-9688-03dd5e1dacad,Pembahasan latihan perulangan bagian 1,9/11/2023 13:06,9/11/2023 13:06,vdtM8YL6DnI,https://youtu.be/vdtM8YL6DnI,NULL,0
+9a1b1cd2-14d2-4bbf-8526-e2e40e9e1676,9a1b1cd2-14a5-48ed-b59d-c8ab83fcbba2,Perulangan 2,9/11/2023 13:06,9/11/2023 13:06,FTVIVGfZRUE,https://youtu.be/FTVIVGfZRUE,NULL,0
+9a1b1cd2-1524-444c-b539-6f4f501b993b,9a1b1cd2-14a5-48ed-b59d-c8ab83fcbba2,Nested Loop,9/11/2023 13:06,9/11/2023 13:06,61ERX41hqhU,https://youtu.be/61ERX41hqhU,NULL,0
+9a1b1cd2-1576-4e26-8a36-1ad0ac6e148c,9a1b1cd2-14a5-48ed-b59d-c8ab83fcbba2,Praktik For dan Nested loop,9/11/2023 13:06,9/11/2023 13:06,MpMA_KV_CGY,https://youtu.be/MpMA_KV_CGY,NULL,0
+9a1b1cd2-15ca-4845-99f0-9ca20ffd2874,9a1b1cd2-14a5-48ed-b59d-c8ab83fcbba2,Latihan perulangan bagian 2,9/11/2023 13:06,9/11/2023 13:06,V4o5T0U7f4U,https://youtu.be/V4o5T0U7f4U,NULL,0
+9a1b1cd2-161c-4184-b7a2-2055fe69743a,9a1b1cd2-14a5-48ed-b59d-c8ab83fcbba2,Pembahasan Latihan perulangan bagian 2,9/11/2023 13:06,9/11/2023 13:06,TcIMnA6SgIY,https://youtu.be/TcIMnA6SgIY,NULL,0
+9a1b1cd2-1698-40ca-b0f9-4ed68866808b,9a1b1cd2-166c-4ffa-8822-e15ee962c98b,Tipe data lanjutan,9/11/2023 13:06,9/11/2023 13:06,0BEnTwotDo8,https://youtu.be/0BEnTwotDo8,NULL,0
+9a1b1cd2-16ea-44e6-bfd4-3ccb4bfcca47,9a1b1cd2-166c-4ffa-8822-e15ee962c98b,Enumerasi 1,9/11/2023 13:06,9/11/2023 13:06,5OH_R1TLT1U,https://youtu.be/5OH_R1TLT1U,NULL,0
+9a1b1cd2-173c-478f-aea7-f51a50264ea5,9a1b1cd2-166c-4ffa-8822-e15ee962c98b,Enumerasi 2 dan Subrange,9/11/2023 13:06,9/11/2023 13:06,KVTOP6QurjU,https://youtu.be/KVTOP6QurjU,NULL,0
+9a1b1cd2-178e-4418-a31c-b23ad9fdbda3,9a1b1cd2-166c-4ffa-8822-e15ee962c98b,Hirarki Identifier,9/11/2023 13:06,9/11/2023 13:06,_j2d8Sq6HkU,https://youtu.be/_j2d8Sq6HkU,NULL,0
+9a1b1cd2-17e1-452f-8daf-07aab0d100e7,9a1b1cd2-166c-4ffa-8822-e15ee962c98b,Praktik Enumrasi dan Subrange,9/11/2023 13:06,9/11/2023 13:06,yGKVmD5AW3Y,https://youtu.be/yGKVmD5AW3Y,NULL,0
+9a1b1cd2-185d-4f72-b7e0-499040a4dd82,9a1b1cd2-1830-41fd-a091-c147542bd7ed,Konsep dasar pemrograman modular,9/11/2023 13:06,9/11/2023 13:06,XUwV2uQMvEY,https://youtu.be/XUwV2uQMvEY,NULL,0
+9a1b1cd2-18b1-436b-b760-01b32695e4da,9a1b1cd2-1830-41fd-a091-c147542bd7ed,Function,9/11/2023 13:06,9/11/2023 13:06,2L1JeFJUC7o,https://youtu.be/2L1JeFJUC7o,NULL,0
+9a1b1cd2-1904-4a81-ad37-bf9a71aa259f,9a1b1cd2-1830-41fd-a091-c147542bd7ed,Procedure,9/11/2023 13:06,9/11/2023 13:06,02yT9XSfpEU,https://youtu.be/02yT9XSfpEU,NULL,0
+9a1b1cd2-1957-4bb6-8460-ee9a577f60e2,9a1b1cd2-1830-41fd-a091-c147542bd7ed,Identifier Scope Global and Local,9/11/2023 13:06,9/11/2023 13:06,F7X0_z2ehjU,https://youtu.be/F7X0_z2ehjU,NULL,0
+9a1b1cd2-19a9-4333-b416-776e2d07d3e1,9a1b1cd2-1830-41fd-a091-c147542bd7ed,Transfer Parameter by valu and by reference,9/11/2023 13:06,9/11/2023 13:06,QWU5QlPoORQ,https://youtu.be/QWU5QlPoORQ,NULL,0
+9a1b1cd2-19fa-494b-88c7-0e28dda6f1bc,9a1b1cd2-1830-41fd-a091-c147542bd7ed,Prosedur vs Fungsi dan Keuntungan pemrograman Modular,9/11/2023 13:06,9/11/2023 13:06,IQSbRWqvAT4,https://youtu.be/IQSbRWqvAT4,NULL,0
+9a1b1cd2-1a4c-496f-8a0a-bfd70087a7ab,9a1b1cd2-1830-41fd-a091-c147542bd7ed,Praktik pemrograman modular,9/11/2023 13:06,9/11/2023 13:06,c2WJXkVOsgA,https://youtu.be/c2WJXkVOsgA,NULL,0
+9a1b1cd2-1a9e-4f00-8a6d-3842a07ba6a7,9a1b1cd2-1830-41fd-a091-c147542bd7ed,Latihan pemrograman modular,9/11/2023 13:06,9/11/2023 13:06,nbyC3qFtg5s,https://youtu.be/nbyC3qFtg5s,NULL,0
+9a1b1cd2-1af0-47cc-8525-ad25acc6c15e,9a1b1cd2-1830-41fd-a091-c147542bd7ed,Pembahasan latihan pemrograman modular,9/11/2023 13:06,9/11/2023 13:06,ZEazWffhoLo,https://youtu.be/ZEazWffhoLo,NULL,0
+9a1b1cd2-1b6c-4c73-8bd0-28f6663186b7,9a1b1cd2-1b3f-4ac4-a7e7-597d7d1d7d7d,Konsep ArrayLatar belakang dan Definisi,9/11/2023 13:06,9/11/2023 13:06,8Pd7t4OuNvM,https://youtu.be/8Pd7t4OuNvM,NULL,0
+9a1b1cd2-1bbc-4ddd-8abd-e3f4bc71b494,9a1b1cd2-1b3f-4ac4-a7e7-597d7d1d7d7d,Array one dimensional 1,9/11/2023 13:06,9/11/2023 13:06,D3NPKKQ2K68,https://youtu.be/D3NPKKQ2K68,NULL,0
+9a1b1cd2-1c0f-4907-8fbe-df58fa00fd38,9a1b1cd2-1b3f-4ac4-a7e7-597d7d1d7d7d,Array one dimensional 2,9/11/2023 13:06,9/11/2023 13:06,MezU4OcOquA,https://youtu.be/MezU4OcOquA,NULL,0
+9a1b1cd2-1c62-49af-8214-f096f33faace,9a1b1cd2-1b3f-4ac4-a7e7-597d7d1d7d7d,Array multi dimensional,9/11/2023 13:06,9/11/2023 13:06,y2XuEbW4beE,https://youtu.be/y2XuEbW4beE,NULL,0
+9a1b1cd2-1cb4-4fd9-a983-ed467e7d4a57,9a1b1cd2-1b3f-4ac4-a7e7-597d7d1d7d7d,Praktik Array one dimensional,9/11/2023 13:06,9/11/2023 13:06,wJqliZsKeDg,https://youtu.be/wJqliZsKeDg,NULL,0
+9a1b1cd2-1d05-4456-a73c-5316fbf15dc4,9a1b1cd2-1b3f-4ac4-a7e7-597d7d1d7d7d,Praktik Array Multi dimensional,9/11/2023 13:06,9/11/2023 13:06,1Ifr_zc--5o,https://youtu.be/1Ifr_zc--5o,NULL,0
+9a1b1cd2-1d56-4131-b018-1b868d843c1c,9a1b1cd2-1b3f-4ac4-a7e7-597d7d1d7d7d,Latihan array,9/11/2023 13:06,9/11/2023 13:06,z8EH9CNygHs,https://youtu.be/z8EH9CNygHs,NULL,0
+9a1b1cd2-1da6-4ae7-b76b-0085179873e9,9a1b1cd2-1b3f-4ac4-a7e7-597d7d1d7d7d,Pembahasan Latihan array,9/11/2023 13:06,9/11/2023 13:06,f8UlOrBFV_U,https://youtu.be/f8UlOrBFV_U,NULL,0
+9a1b1cd2-1e26-4bc8-bbf8-489cd172e609,9a1b1cd2-1df8-442c-81ab-78232c1d32fa,Konsep Record,9/11/2023 13:06,9/11/2023 13:06,n0DH6-6fQd8,https://youtu.be/n0DH6-6fQd8,NULL,0
+9a1b1cd2-1e79-4516-9376-c7c4e5a8bf75,9a1b1cd2-1df8-442c-81ab-78232c1d32fa,Implementasi Record 1,9/11/2023 13:06,9/11/2023 13:06,it5EeWwMPfs,https://youtu.be/it5EeWwMPfs,NULL,0
+9a1b1cd2-1ece-48c5-812e-925feb060b16,9a1b1cd2-1df8-442c-81ab-78232c1d32fa,Implementasi Record 2,9/11/2023 13:06,9/11/2023 13:06,o8IgZ8evyA4,https://youtu.be/o8IgZ8evyA4,NULL,0
+9a1b1cd2-1f20-4392-a8ce-932ff9d8dc32,9a1b1cd2-1df8-442c-81ab-78232c1d32fa,Praktik Record,9/11/2023 13:06,9/11/2023 13:06,fCdOqYjSbKU,https://youtu.be/fCdOqYjSbKU,NULL,0
+9a1b1cd2-1f73-4b30-bfdd-9a369961a2e8,9a1b1cd2-1df8-442c-81ab-78232c1d32fa,Latihan record,9/11/2023 13:06,9/11/2023 13:06,Fl8bFcUeslE,https://youtu.be/Fl8bFcUeslE,NULL,0
+9a1b1cd2-1fc5-4339-b4da-da224ea02ea7,9a1b1cd2-1df8-442c-81ab-78232c1d32fa,Pembahasan Latihan Record,9/11/2023 13:06,9/11/2023 13:06,_cAZZx82xCk,https://youtu.be/_cAZZx82xCk,NULL,0
+9a1b1cd2-2041-4df2-a05c-0e95b5002874,9a1b1cd2-2014-41e2-abde-fd16db5fb323,Pengantar Rekursif,9/11/2023 13:06,9/11/2023 13:06,9OwzgiEb-CU,https://youtu.be/9OwzgiEb-CU,NULL,0
+9a1b1cd2-2094-4de5-9d5f-9f026c523637,9a1b1cd2-2014-41e2-abde-fd16db5fb323,"Direct call, Indirect Call dan Dummy definition",9/11/2023 13:06,9/11/2023 13:06,Aau6EMaWFFs,https://youtu.be/Aau6EMaWFFs,NULL,0
+9a1b1cd2-20e8-40dd-8369-1a201f4f97e3,9a1b1cd2-2014-41e2-abde-fd16db5fb323,Base case,9/11/2023 13:06,9/11/2023 13:06,9CbaGZYs-rQ,https://youtu.be/9CbaGZYs-rQ,NULL,0
+9a1b1cd2-213a-4a2a-bb70-1b10acf1e6f4,9a1b1cd2-2014-41e2-abde-fd16db5fb323,Rekursif vs Iterasi,9/11/2023 13:06,9/11/2023 13:06,PzMDfrLrKzc,https://youtu.be/PzMDfrLrKzc,NULL,0
+9a1b1cd2-218a-44c4-afc3-325904566ce7,9a1b1cd2-2014-41e2-abde-fd16db5fb323,Praktik,9/11/2023 13:06,9/11/2023 13:06,_Wj5K4B5U84,https://youtu.be/_Wj5K4B5U84,NULL,0
+9a1b1cd2-21dd-41a3-8f0f-5442d9eb8b2c,9a1b1cd2-2014-41e2-abde-fd16db5fb323,Latihan Rekursif,9/11/2023 13:06,9/11/2023 13:06,7NtBKiVjgr8,https://youtu.be/7NtBKiVjgr8,NULL,0
+9a1b1cd2-2230-4e9e-990a-4db18bd2cac0,9a1b1cd2-2014-41e2-abde-fd16db5fb323,Pembahasan latihan rekursif,9/11/2023 13:06,9/11/2023 13:06,sR6iLpgzThk,https://youtu.be/sR6iLpgzThk,NULL,0
+9a1b1cd2-22ac-4d16-88a5-3df1e69e9845,9a1b1cd2-2281-40db-b2c7-3051c0992426,Pengantar Pencarian,9/11/2023 13:06,9/11/2023 13:06,zX40VJo9dEI,https://youtu.be/zX40VJo9dEI,NULL,0
+9a1b1cd2-22ff-4301-9ee8-94a8bf7e0197,9a1b1cd2-2281-40db-b2c7-3051c0992426,Sequential search array tidak terurut,9/11/2023 13:06,9/11/2023 13:06,F63RWNMTSWs,https://youtu.be/F63RWNMTSWs,NULL,0
+9a1b1cd2-2351-48b2-8664-a3aea5b35f40,9a1b1cd2-2281-40db-b2c7-3051c0992426,Sequential search array terurut,9/11/2023 13:06,9/11/2023 13:06,RekpcPoSKhQ,https://youtu.be/RekpcPoSKhQ,NULL,0
+9a1b1cd2-23a3-494d-bd9b-76f1abf20b1b,9a1b1cd2-2281-40db-b2c7-3051c0992426,Sequential search dengan sentinel,9/11/2023 13:06,9/11/2023 13:06,bHY2P-CVNGE,https://youtu.be/bHY2P-CVNGE,NULL,0
+9a1b1cd2-23f5-4ce8-be86-e507167c7b9f,9a1b1cd2-2281-40db-b2c7-3051c0992426,Binary search,9/11/2023 13:06,9/11/2023 13:06,p1K845oAjZc,https://youtu.be/p1K845oAjZc,NULL,0
+9a1b1cd2-2445-437a-9270-0b4242563ac1,9a1b1cd2-2281-40db-b2c7-3051c0992426,Praktik pencarian,9/11/2023 13:06,9/11/2023 13:06,1Qj4T2VwaZw,https://youtu.be/1Qj4T2VwaZw,NULL,0
+9a1b1cd2-2497-4137-ac65-befb31ea9d4e,9a1b1cd2-2281-40db-b2c7-3051c0992426,Latihan searching,9/11/2023 13:06,9/11/2023 13:06,5Q-F3bkyb9I,https://youtu.be/5Q-F3bkyb9I,NULL,0
+9a1b1cd2-24e9-4c11-825b-0f59ac1672b5,9a1b1cd2-2281-40db-b2c7-3051c0992426,Pembahasan latihan searching,9/11/2023 13:06,9/11/2023 13:06,aZIGwr-KzkU,https://youtu.be/aZIGwr-KzkU,NULL,0
+9a1b1cd2-2567-4465-abda-4a059856f235,9a1b1cd2-253b-48e6-b2fb-6e51bf355b89,Pengantar Pengurutan,9/11/2023 13:06,9/11/2023 13:06,pa7UQOhbmnk,https://youtu.be/pa7UQOhbmnk,NULL,0
+9a1b1cd2-25ba-4bcc-b435-d9ccebc704f3,9a1b1cd2-253b-48e6-b2fb-6e51bf355b89,Bubble sort,9/11/2023 13:06,9/11/2023 13:06,S9RzAb0JQ2g,https://youtu.be/S9RzAb0JQ2g,NULL,0
+9a1b1cd2-260d-4fb3-b542-091f036b6f42,9a1b1cd2-253b-48e6-b2fb-6e51bf355b89,Selestion sort,9/11/2023 13:06,9/11/2023 13:06,bFWp9Q0OaW8,https://youtu.be/bFWp9Q0OaW8,NULL,0
+9a1b1cd2-2660-4a85-9e13-6b7c064e6b22,9a1b1cd2-253b-48e6-b2fb-6e51bf355b89,Praktik,9/11/2023 13:06,9/11/2023 13:06,jkPifjsxXl8,https://youtu.be/jkPifjsxXl8,NULL,0
+9a1b1cd2-26b0-4fe2-a553-5778c25bbfc3,9a1b1cd2-253b-48e6-b2fb-6e51bf355b89,Latihan sorting bagian 1,9/11/2023 13:06,9/11/2023 13:06,kwX3nF261QA,https://youtu.be/kwX3nF261QA,NULL,0
+9a1b1cd2-2702-443c-8529-c7248632f9f8,9a1b1cd2-253b-48e6-b2fb-6e51bf355b89,Pembahasan Latihan sorting bagian 1,9/11/2023 13:06,9/11/2023 13:06,i8Oc7hIR0Ww,https://youtu.be/i8Oc7hIR0Ww,NULL,0
+9a1b1cd2-2800-47a7-b02a-33cb084c4e75,9a1b1cd2-27d3-4d01-8f04-723bef573807,Insertion sort,9/11/2023 13:06,9/11/2023 13:06,Z4lwqmk_TG0,https://youtu.be/Z4lwqmk_TG0,NULL,0
+9a1b1cd2-2854-4df3-a268-78614475cc25,9a1b1cd2-27d3-4d01-8f04-723bef573807,Praktik,9/11/2023 13:06,9/11/2023 13:06,oK8jF5AdjoU,https://youtu.be/oK8jF5AdjoU,NULL,0
+9a1b1cd2-28a6-4b3d-97cb-1f0bad7017d4,9a1b1cd2-27d3-4d01-8f04-723bef573807,Latihan sorting bagian 2,9/11/2023 13:06,9/11/2023 13:06,bcL0erYG1-k,https://youtu.be/bcL0erYG1-k,NULL,0
+9a1b1cd2-28f8-4a4d-a17d-1ad9e68cc2cc,9a1b1cd2-27d3-4d01-8f04-723bef573807,Pembahasan latihan sorting bagian 2,9/11/2023 13:06,9/11/2023 13:06,fwMZ1_hP48Q,https://youtu.be/fwMZ1_hP48Q,NULL,0
+9a1b1cd2-2991-468e-a4a0-6edf25496fe2,9a1b1cd2-295a-4143-a3e8-c8b9090f1626,Klasifikasi Statistika,9/11/2023 13:06,9/11/2023 13:06,xlw6KW-tZIM,https://youtu.be/xlw6KW-tZIM,NULL,0
+9a1b1cd2-29f2-4946-b0ff-31809532fe94,9a1b1cd2-295a-4143-a3e8-c8b9090f1626,Distribusi Sampling Rata Rata,9/11/2023 13:06,9/11/2023 13:06,c9H7rQodqb0,https://youtu.be/c9H7rQodqb0,NULL,0
+9a1b1cd2-2a47-4c4a-8b38-ef813cbc627e,9a1b1cd2-295a-4143-a3e8-c8b9090f1626,Contoh Soal 1 Klasifikasi dalam Statistika dan Distribusi Sampling,9/11/2023 13:06,9/11/2023 13:06,rmCrcYQd4mE,https://youtu.be/rmCrcYQd4mE,NULL,0
+9a1b1cd2-2a99-460c-aebf-b426a1ecd841,9a1b1cd2-295a-4143-a3e8-c8b9090f1626,Distribusi Sampling Beda Rata Rata,9/11/2023 13:06,9/11/2023 13:06,XA_41JT70RI,https://youtu.be/XA_41JT70RI,NULL,0
+9a1b1cd2-2aeb-4a30-81a5-19ba4493eb0c,9a1b1cd2-295a-4143-a3e8-c8b9090f1626,Contoh Soal 2 Klasifikasi dalam Statistika dan Distribusi Sampling,9/11/2023 13:06,9/11/2023 13:06,h7WsHPFmwnU,https://youtu.be/h7WsHPFmwnU,NULL,0
+9a1b1cd2-2b3d-433c-a53b-17eddbbe0059,9a1b1cd2-295a-4143-a3e8-c8b9090f1626,Distribusi Sampling Proporsi,9/11/2023 13:06,9/11/2023 13:06,W9_z2zL4Pw0,https://youtu.be/W9_z2zL4Pw0,NULL,0
+9a1b1cd2-2b8e-45f1-9c8c-31035e154cbd,9a1b1cd2-295a-4143-a3e8-c8b9090f1626,Distribusi Sampling Beda Proporsi,9/11/2023 13:06,9/11/2023 13:06,aAPqWOaUdkU,https://youtu.be/aAPqWOaUdkU,NULL,0
+9a1b1cd2-2c09-43b4-9d66-f757dfe8689f,9a1b1cd2-2bde-49d6-8618-0e384edaf26d,Estimasi Titik dan Estimasi Interval,9/11/2023 13:06,9/11/2023 13:06,vAjpUm-Zijk,https://youtu.be/vAjpUm-Zijk,NULL,0
+9a1b1cd2-2c5a-4008-ac37-405683f9d3a1,9a1b1cd2-2bde-49d6-8618-0e384edaf26d,Estimasi Selang Kepercayaan Satu Populasi,9/11/2023 13:06,9/11/2023 13:06,tfArliqoMhA,https://youtu.be/tfArliqoMhA,NULL,0
+9a1b1cd2-2cac-42df-a9f7-1f8da8b2323b,9a1b1cd2-2bde-49d6-8618-0e384edaf26d,Estimasi Selang Kepercayaan Dua Populasi,9/11/2023 13:06,9/11/2023 13:06,tvz1GC1YqYI,https://youtu.be/tvz1GC1YqYI,NULL,0
+9a1b1cd2-2cfd-49c3-9660-0a5e6e55d8c4,9a1b1cd2-2bde-49d6-8618-0e384edaf26d,Contoh Soal Pendugaan Parameter,9/11/2023 13:06,9/11/2023 13:06,60w51nUqbWI,https://youtu.be/60w51nUqbWI,NULL,0
+9a1b1cd2-2d7c-426d-b280-01a64197779e,9a1b1cd2-2d4e-4ac2-86f6-1e300f0b89af,Konsep Dasar,9/11/2023 13:06,9/11/2023 13:06,f2cB84Ulk2k,https://youtu.be/f2cB84Ulk2k,NULL,0
+9a1b1cd2-2dcf-4b15-b011-c3fe66c1bc98,9a1b1cd2-2d4e-4ac2-86f6-1e300f0b89af,Pengujian Hipotesis Statistik,9/11/2023 13:06,9/11/2023 13:06,c1yE5YM0-jM,https://youtu.be/c1yE5YM0-jM,NULL,0
+9a1b1cd2-2e20-49d2-b5a6-c46766338fa6,9a1b1cd2-2d4e-4ac2-86f6-1e300f0b89af,Contoh Soal 1 Pengujian Hipotesis 1,9/11/2023 13:06,9/11/2023 13:06,v02dpFi1Uvk,https://youtu.be/v02dpFi1Uvk,NULL,0
+9a1b1cd2-2e70-4b9b-a84c-89b145441f33,9a1b1cd2-2d4e-4ac2-86f6-1e300f0b89af,Contoh Soal 2 Pengujian Hipotesis 1,9/11/2023 13:06,9/11/2023 13:06,YKBMtrbjRmU,https://youtu.be/YKBMtrbjRmU,NULL,0
+9a1b1cd2-2eed-4381-8df2-ebd590bf0794,9a1b1cd2-2ec0-4381-a250-61d74069dfa6,Uji Hipotesis Beda Proporsi,9/11/2023 13:06,9/11/2023 13:06,8p_EJk6UXJk,https://youtu.be/8p_EJk6UXJk,NULL,0
+9a1b1cd2-2f3f-4718-a2f5-0e5b215f946c,9a1b1cd2-2ec0-4381-a250-61d74069dfa6,Uji Hipotesis Beda Rata Rata,9/11/2023 13:06,9/11/2023 13:06,Mp5xZ_lucwY,https://youtu.be/Mp5xZ_lucwY,NULL,0
+9a1b1cd2-2f92-46ea-a670-e32e5790df27,9a1b1cd2-2ec0-4381-a250-61d74069dfa6,Contoh Soal 1 Pengujian Hipotesis 2,9/11/2023 13:06,9/11/2023 13:06,oAAagG5Se5s,https://youtu.be/oAAagG5Se5s,NULL,0
+9a1b1cd2-2fe4-4ce4-8423-6b86563481cc,9a1b1cd2-2ec0-4381-a250-61d74069dfa6,Contoh Soal 2 Pengujian Hipotesis 2,9/11/2023 13:06,9/11/2023 13:06,MxxeUV-I1yo,https://youtu.be/MxxeUV-I1yo,NULL,0
+9a1b1cd2-3035-40b1-b33f-ab1d4ddb4821,9a1b1cd2-2ec0-4381-a250-61d74069dfa6,Uji Rasio Dua Varians,9/11/2023 13:06,9/11/2023 13:06,BNm_1Rz9k8Y,https://youtu.be/BNm_1Rz9k8Y,NULL,0
+9a1b1cd2-3087-48fe-bf8d-35da92256bd0,9a1b1cd2-2ec0-4381-a250-61d74069dfa6,Contoh Soal 3 Pengujian Hipotesis 2,9/11/2023 13:06,9/11/2023 13:06,paZri9a950U,https://youtu.be/paZri9a950U,NULL,0
+9a1b1cd2-30d9-4e31-9812-11ce129ad9d1,9a1b1cd2-2ec0-4381-a250-61d74069dfa6,Uji Hipotesis Data Berpasangan,9/11/2023 13:06,9/11/2023 13:06,_-Mwu9Kae70,https://youtu.be/_-Mwu9Kae70,NULL,0
+9a1b1cd2-3154-4ef5-a9de-87e21806726e,9a1b1cd2-3128-42ec-8930-727392c9a852,Goodness Of Fit Test,9/11/2023 13:06,9/11/2023 13:06,EW9ixMxUzZM,https://youtu.be/EW9ixMxUzZM,NULL,0
+9a1b1cd2-31a7-47d4-a7ec-b1fd98269169,9a1b1cd2-3128-42ec-8930-727392c9a852,Kolmogorof Smirnov,9/11/2023 13:06,9/11/2023 13:06,vYisG4J1Qzw,https://youtu.be/vYisG4J1Qzw,NULL,0
+9a1b1cd2-31f7-456a-a10f-cddc53390603,9a1b1cd2-3128-42ec-8930-727392c9a852,Liliefors Test,9/11/2023 13:06,9/11/2023 13:06,wOrcLzjEb8E,https://youtu.be/wOrcLzjEb8E,NULL,0
+9a1b1cd2-3249-46a0-8862-f775f58067d8,9a1b1cd2-3128-42ec-8930-727392c9a852,Shapiro Wilk,9/11/2023 13:06,9/11/2023 13:06,Xns-x4A_alY,https://youtu.be/Xns-x4A_alY,NULL,0
+9a1b1cd2-329a-43e0-b72d-981b16b4fa1d,9a1b1cd2-3128-42ec-8930-727392c9a852,Jarque Bera,9/11/2023 13:06,9/11/2023 13:06,UsZgjL617eo,https://youtu.be/UsZgjL617eo,NULL,0
+9a1b1cd2-3316-43c4-b217-f2035868f829,9a1b1cd2-32eb-4aba-9ca6-41d0a027a463,Konsep Dasar dan Uji Bartlet,9/11/2023 13:06,9/11/2023 13:06,JtSESgJTkYM,https://youtu.be/JtSESgJTkYM,NULL,0
+9a1b1cd2-3369-46cb-a685-6b970eb428d2,9a1b1cd2-32eb-4aba-9ca6-41d0a027a463,Contoh Soal,9/11/2023 13:06,9/11/2023 13:06,R2MN8gcxdxY,https://youtu.be/R2MN8gcxdxY,NULL,0
+9a1b1cd2-33bb-45a2-b7d7-dbdad711dbe6,9a1b1cd2-32eb-4aba-9ca6-41d0a027a463,Uji Bartlet dengan Pendekatan Chi Square,9/11/2023 13:06,9/11/2023 13:06,vJ84r_3_sG4,https://youtu.be/vJ84r_3_sG4,NULL,0
+9a1b1cd2-340d-4152-8aea-e1e5866d0bb9,9a1b1cd2-32eb-4aba-9ca6-41d0a027a463,Levene Test,9/11/2023 13:06,9/11/2023 13:06,0wccXHARl_0,https://youtu.be/0wccXHARl_0,NULL,0
+9a1b1cd2-3489-478d-9d93-035401c673c5,9a1b1cd2-345d-4998-b83d-790ba808c5f6,Konsep Dasar dan Prosedur Uji Anova,9/11/2023 13:06,9/11/2023 13:06,K1j5E92kdHE,https://youtu.be/K1j5E92kdHE,NULL,0
+9a1b1cd2-34db-49f8-9435-e331d43c0c4d,9a1b1cd2-345d-4998-b83d-790ba808c5f6,Uji Perbandingan Berganda: Uji Tukey,9/11/2023 13:06,9/11/2023 13:06,1XazSvvmFEI,https://youtu.be/1XazSvvmFEI,NULL,0
+9a1b1cd2-352d-4f08-80f7-f1fda425df23,9a1b1cd2-345d-4998-b83d-790ba808c5f6,Uji Perbandingan Berganda: Uji Duncan,9/11/2023 13:06,9/11/2023 13:06,K6VF8LnA-kU,https://youtu.be/K6VF8LnA-kU,NULL,0
+9a1b1cd2-357e-4ee4-9485-8e3e1ac9b9d0,9a1b1cd2-345d-4998-b83d-790ba808c5f6,Contoh Soal 1 One Way Anova,9/11/2023 13:06,9/11/2023 13:06,5nCZ2P2-vE8,https://youtu.be/5nCZ2P2-vE8,NULL,0
+9a1b1cd2-35d0-4ce6-844f-7b9549339c63,9a1b1cd2-345d-4998-b83d-790ba808c5f6,Contoh Soal 2 One Way Anova,9/11/2023 13:06,9/11/2023 13:06,QdZDer7Bp-0,https://youtu.be/QdZDer7Bp-0,NULL,0
+9a1b1cd2-3621-4c68-864c-59022446b869,9a1b1cd2-345d-4998-b83d-790ba808c5f6,Contoh Soal 3 One Way Anova,9/11/2023 13:06,9/11/2023 13:06,hb98moemFDo,https://youtu.be/hb98moemFDo,NULL,0
+9a1b1cd2-369d-4ffe-982d-cc146e22f4ba,9a1b1cd2-3671-4805-a60b-9b447df128a9,Anova Dua Arah Tanpa Replikasi,9/11/2023 13:06,9/11/2023 13:06,b6PhMCXyYJY,https://youtu.be/b6PhMCXyYJY,NULL,0
+9a1b1cd2-36f0-479e-9cf1-3a4123b3667e,9a1b1cd2-3671-4805-a60b-9b447df128a9,Anova Dua Arah Dengan Replikasi,9/11/2023 13:06,9/11/2023 13:06,qlMkHUgBSeo,https://youtu.be/qlMkHUgBSeo,NULL,0
+9a1b1cd2-3743-4b6d-bb88-341ddac9367e,9a1b1cd2-3671-4805-a60b-9b447df128a9,Contoh Soal 1 Two Way Anova,9/11/2023 13:06,9/11/2023 13:06,tn8zYgp86dc,https://youtu.be/tn8zYgp86dc,NULL,0
+9a1b1cd2-3796-43b6-a402-7d11e2641721,9a1b1cd2-3671-4805-a60b-9b447df128a9,Contoh Soal 2 Two Way Anova,9/11/2023 13:06,9/11/2023 13:06,bX8Yy72qYoY,https://youtu.be/bX8Yy72qYoY,NULL,0
+9a1b1cd2-37e7-4be5-b0df-48d5ffb456c7,9a1b1cd2-3671-4805-a60b-9b447df128a9,Uji Perbandingan Berganda,9/11/2023 13:06,9/11/2023 13:06,p9N27A0brRg,https://youtu.be/p9N27A0brRg,NULL,0
+9a1b1cd2-3864-498d-bada-192d854b4a5a,9a1b1cd2-3836-4175-b1c8-ee4a982d3a2f,Pengujian Beberapa Populasi Binomial,9/11/2023 13:06,9/11/2023 13:06,ZUyfQQ6Opnw,https://youtu.be/ZUyfQQ6Opnw,NULL,0
+9a1b1cd2-38b7-47eb-81c7-6b803895dbce,9a1b1cd2-3836-4175-b1c8-ee4a982d3a2f,Pengujian Beberapa Populasi Multinomial,9/11/2023 13:06,9/11/2023 13:06,Z8i7SkgAKQQ,https://youtu.be/Z8i7SkgAKQQ,NULL,0
+9a1b1cd2-390a-4d37-8f5d-bfa009be2940,9a1b1cd2-3836-4175-b1c8-ee4a982d3a2f,Contoh Soal 1 Uji Proporsi Beberapa Populasi,9/11/2023 13:06,9/11/2023 13:06,4xug8fz5tCg,https://youtu.be/4xug8fz5tCg,NULL,0
+9a1b1cd2-395c-4efb-b24c-acc4112a03b8,9a1b1cd2-3836-4175-b1c8-ee4a982d3a2f,Contoh Soal 2 Uji Proporsi Beberapa Populasi,9/11/2023 13:06,9/11/2023 13:06,AXu9YoaEv7g,https://youtu.be/AXu9YoaEv7g,NULL,0
+9a1b1cd2-39ae-4f1f-8101-9ec1117aa2d0,9a1b1cd2-3836-4175-b1c8-ee4a982d3a2f,Contoh Soal 3 Uji Proporsi Beberapa Populasi,9/11/2023 13:06,9/11/2023 13:06,0hwr3DDv8IU,https://youtu.be/0hwr3DDv8IU,NULL,0
+9a1b1cd2-3a02-46e3-a9f3-bd149344c572,9a1b1cd2-3836-4175-b1c8-ee4a982d3a2f,Contoh Soal 4 Uji Proporsi Beberapa Populasi,9/11/2023 13:06,9/11/2023 13:06,Hnxlb0Sb_9g,https://youtu.be/Hnxlb0Sb_9g,NULL,0
+9a1b1cd2-3a7d-4f36-922e-cb3803e84e4e,9a1b1cd2-3a52-4a7c-a7a6-83d20c2f306c,Konsep Dasar dan Uji Run,9/11/2023 13:06,9/11/2023 13:06,4SqsiT4Qn-Y,https://youtu.be/4SqsiT4Qn-Y,NULL,0
+9a1b1cd2-3acf-4a9e-beb3-c462238d82c6,9a1b1cd2-3a52-4a7c-a7a6-83d20c2f306c,Uji Tanda,9/11/2023 13:06,9/11/2023 13:06,a0R4cGAVjck,https://youtu.be/a0R4cGAVjck,NULL,0
+9a1b1cd2-3b22-42fb-869c-ad7d94597a4e,9a1b1cd2-3a52-4a7c-a7a6-83d20c2f306c,Contoh Soal 1 Run Test dan Sign Test,9/11/2023 13:06,9/11/2023 13:06,qp3Nq9H3foI,https://youtu.be/qp3Nq9H3foI,NULL,0
+9a1b1cd2-3b75-4555-a3df-73091b227525,9a1b1cd2-3a52-4a7c-a7a6-83d20c2f306c,Contoh Soal 2 Run Test dan Sign Test,9/11/2023 13:06,9/11/2023 13:06,0RYC2qc0SSw,https://youtu.be/0RYC2qc0SSw,NULL,0
+9a1b1cd2-3bf1-452e-956d-1f59e383aca3,9a1b1cd2-3bc4-4320-9ac6-683cc6abacf9,Uji Wilcoxon,9/11/2023 13:06,9/11/2023 13:06,QOlFBGWPTK8,https://youtu.be/QOlFBGWPTK8,NULL,0
+9a1b1cd2-3c44-4ebc-a26f-e902ad1d9144,9a1b1cd2-3bc4-4320-9ac6-683cc6abacf9,Contoh Soal 1 Uji W Uji Kolmogorov Smirnov dan Uji Wilcoxon,9/11/2023 13:06,9/11/2023 13:06,b62WF06eStc,https://youtu.be/b62WF06eStc,NULL,0
+9a1b1cd2-3c97-44b7-9045-54f8dda282d7,9a1b1cd2-3bc4-4320-9ac6-683cc6abacf9,Contoh Soal 2 Uji W Uji Kolmogorov Smirnov dan Uji Wilcoxon,9/11/2023 13:06,9/11/2023 13:06,4uo3tz8fgl8,https://youtu.be/4uo3tz8fgl8,NULL,0
+9a1b1cd2-3ce9-4f26-a41e-9dd1e9b90a16,9a1b1cd2-3bc4-4320-9ac6-683cc6abacf9,Uji Mann Withney,9/11/2023 13:06,9/11/2023 13:06,KNVnNH4llq8,https://youtu.be/KNVnNH4llq8,NULL,0
+9a1b1cd2-3d3c-417f-a16f-c77de9b07c95,9a1b1cd2-3bc4-4320-9ac6-683cc6abacf9,Contoh Soal 3 Uji W Uji Kolmogorov Smirnov dan Uji Wilcoxon,9/11/2023 13:06,9/11/2023 13:06,eDScQkJowP8,https://youtu.be/eDScQkJowP8,NULL,0
+9a1b1cd2-3d8f-4eac-bccb-031bbac8c949,9a1b1cd2-3bc4-4320-9ac6-683cc6abacf9,Uji Kolmogorof Smirnov,9/11/2023 13:06,9/11/2023 13:06,XW50BEjzXFM,https://youtu.be/XW50BEjzXFM,NULL,0
+9a1b1cd2-3de1-4c25-bc2f-bfe79420d9b7,9a1b1cd2-3bc4-4320-9ac6-683cc6abacf9,Contoh Soal 4 Uji W Uji Kolmogorov Smirnov dan Uji Wilcoxon,9/11/2023 13:06,9/11/2023 13:06,Y5qOtsXPjlQ,https://youtu.be/Y5qOtsXPjlQ,NULL,0
+9a1b1cd2-3e5d-4cda-9b63-9b99f233d73a,9a1b1cd2-3e31-44a9-a2b6-8f9c09d1cf9e,Uji Friedman,9/11/2023 13:06,9/11/2023 13:06,kdp4TDYV2XI,https://youtu.be/kdp4TDYV2XI,NULL,0
+9a1b1cd2-3eb0-47c4-99bc-ef0858669b13,9a1b1cd2-3e31-44a9-a2b6-8f9c09d1cf9e,Contoh Soal 1 Uji Friedman dan Uji Kruskal Walis,9/11/2023 13:06,9/11/2023 13:06,ZsL6XEpml38,https://youtu.be/ZsL6XEpml38,NULL,0
+9a1b1cd2-3f02-4cc0-a4f2-dc74cd606b36,9a1b1cd2-3e31-44a9-a2b6-8f9c09d1cf9e,Uji Kruskal Wallis,9/11/2023 13:06,9/11/2023 13:06,VlT_9aeT0yM,https://youtu.be/VlT_9aeT0yM,NULL,0
+9a1b1cd2-3f55-4a26-93b9-cc1eda12762d,9a1b1cd2-3e31-44a9-a2b6-8f9c09d1cf9e,Contoh Soal 2 Uji Friedman dan Uji Kruskal Walis,9/11/2023 13:06,9/11/2023 13:06,4sVqFaRtkgw,https://youtu.be/4sVqFaRtkgw,NULL,0
+9a1b1cd2-3fd4-40a7-8085-2090303b5f9b,9a1b1cd2-3fa7-4043-8dac-65c8cf6d3465,Uji Korelasi Rank Spearman,9/11/2023 13:06,9/11/2023 13:06,66J8WwaQzXE,https://youtu.be/66J8WwaQzXE,NULL,0
+9a1b1cd2-4027-4224-b81e-1fe7b05e4004,9a1b1cd2-3fa7-4043-8dac-65c8cf6d3465,Contoh Soal 1 Korelasi Rank Spearman dan Kendal Tau,9/11/2023 13:06,9/11/2023 13:06,bC4AqnT78PY,https://youtu.be/bC4AqnT78PY,NULL,0
+9a1b1cd2-407b-4bf1-aace-279f0a0a6ddb,9a1b1cd2-3fa7-4043-8dac-65c8cf6d3465,Uji Korelasi Pearson,9/11/2023 13:06,9/11/2023 13:06,mkJj9UIex_M,https://youtu.be/mkJj9UIex_M,NULL,0
+9a1b1cd2-40cc-49b2-b352-6f6dd0b61c8b,9a1b1cd2-3fa7-4043-8dac-65c8cf6d3465,Contoh Soal 2 Korelasi Rank Spearman dan Kendal Tau,9/11/2023 13:06,9/11/2023 13:06,Ufcsh4Pn9uA,https://youtu.be/Ufcsh4Pn9uA,NULL,0
+9a1b1cd2-411f-4c7a-baae-19cde12ee439,9a1b1cd2-3fa7-4043-8dac-65c8cf6d3465,Uji Kebebasan Chi Square,9/11/2023 13:06,9/11/2023 13:06,nhFmAhSscRg,https://youtu.be/nhFmAhSscRg,NULL,0
+9a1b1cd2-4199-4f3a-bbe0-4bb7de669c75,9a1b1cd2-416e-42f6-b6d2-1e2c414d310c,Konsep Dasar Ancova,9/11/2023 13:06,9/11/2023 13:06,PQbBAJ0XwWI,https://youtu.be/PQbBAJ0XwWI,NULL,0
+9a1b1cd2-41ec-409c-b469-17b6e7ab29fa,9a1b1cd2-416e-42f6-b6d2-1e2c414d310c,Penjelasan Ancova,9/11/2023 13:06,9/11/2023 13:06,sQRWmKRcajo,https://youtu.be/sQRWmKRcajo,NULL,0
+9a1b1cd2-423e-4a1e-9d2f-eee146128c0f,9a1b1cd2-416e-42f6-b6d2-1e2c414d310c,Contoh Soal Ancova,9/11/2023 13:06,9/11/2023 13:06,gvU1X0C0Alc,https://youtu.be/gvU1X0C0Alc,NULL,0
+9c90c032-274d-49ba-a1d6-ba881cab4741,9c90c032-274d-49ba-a1d6-ba881cab4740,ini video 1,7/20/2024 13:02,7/20/2024 13:02,gvU1X0C0Alc,https://youtu.be/gvU1X0C0Alc,NULL,0
